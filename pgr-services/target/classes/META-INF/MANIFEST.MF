@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: varsha
+Build-Jdk: 17.0.3
+Implementation-Title: pgr-services
+Implementation-Version: 1.1.4
+Implementation-Vendor-Id: org.egov
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/pgr-services/
+Created-By: Maven Integration for Eclipse
+
