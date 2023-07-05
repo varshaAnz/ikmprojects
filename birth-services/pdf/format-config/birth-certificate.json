@@ -1,0 +1,1032 @@
+{
+  "key": "birth-certificate",
+  "config": {
+    "defaultStyle": {
+      "font": "Meera"
+    },
+    "watermark": {
+      "text": "KSMART DEMO",
+      "bold": true,
+      "color": "grey",
+      "opacity": 0.1,
+
+      "link": "https://ulb-logos.s3.ap-south-1.amazonaws.com/kerala_logo.jpg",
+      "image": "src/images/kerala-government.png"
+    },
+    "pageOrientation": "portrait",
+    "pageSize": "A4",
+    "pageMargins": [40, 40, 40, 90],
+    "background":{
+      "color": "grey",
+      "opacity": 0.1,
+      "image": "src/images/kerala-government.png",
+      "width": 460,
+      "height": 320,
+      "absolutePosition": {"x": 75, "y": 250}
+    },
+
+    "footer": "(function(currentPage, pageCount) { return {'style': 'ws-head','table': {'widths': ['*'],'heights': '1300', 'body': [[{'stack': [  { 'text': 'Ensure Registration of Every birth and death', 'style': 'details-body-center-bottom-bold'  },  { 'text': 'ഓരോ ജനനവും മരണവും രജിസ്റ്റർ ചെയ്തുവെന്ന് ഉറപ്പുവരുത്തുക', 'style': 'details-body-center-bottomML'  },  { 'text': 'This certificate is computer generated and does not require any Seal/Signature in original.', 'style': 'details-body-center-bottom'  },  { 'text': 'The Govt. vide G.O.(Ms) No.202/2012/LSGD dated 25/07/2012 has approved this certificate as a valid document for all official purposes.', 'style': 'details-body-center-bottom'  },  { 'text': 'Authenticity of this certificate can be verified at https://ksmart.lsgkerala.gov.in. The Key Number is unique to each event.', 'style': 'details-body-center-bottom'  },{ 'text': 'Software developed and supported by Information Kerala Mission.', 'style': 'details-body-center-bottom'  },  { 'text': 'Certificate printed before the last updated date is invalid.', 'style': 'footer-red'  },{'text': currentPage.toString() + ' of ' + pageCount ,'alignment':'center'}]}]]},'layout': 'noBorders','alignment' : 'center','margin':[100,0,50,0]} })",
+    "content": [
+      {
+        "style": "ws-head",
+        "table": {
+          "widths": [
+            "46%",
+            "46%",
+            "100%"
+          ],
+          "body": [
+            [
+              {
+                "stack": [
+                  {
+                    "text": "{{keyNo }}   {{ keyAckNo}}",
+                    "style": "appendix-header-serialNo"
+                  }
+                ]
+              },
+              {
+                "stack": [
+                  {
+                    "image": "{{logoindia}}",
+                    "width": 25,
+                    "height": 33,
+                    "margin": [
+                      10,
+                      0,
+                      10,
+                      -4
+                    ]
+                  }
+                ]
+              }, {
+              "stack": [
+                {
+                  "text": "{{form5}}",
+                  "style": "appendix-header-italic"
+                },
+                {
+                  "text": "{{rule8}}",
+                  "style": "main-body-style"
+                }
+              ]
+            }
+            ]
+          ]
+        },
+        "layout": "noBorders"
+      },
+      {
+        "style": "ws-head",
+        "table": {
+          "widths": [
+            "20%",
+            "60%",
+            "20%",
+            "20%"
+          ],
+          "body": [
+            [
+              {
+                "stack": [
+                  {
+                    "image": "{{logotenant}}",
+                    "width": 50,
+                    "height": 50,
+                    "color": "grey",
+                    "opacity": 0.3,
+                    "margin": [
+                      20,
+                      0,
+                      0,
+                      0
+                    ]
+
+                  }
+                ]
+              },
+
+              {
+                "stack": [
+                  {
+                    "text": "GOVERNMENT OF INDIA",
+                    "style": "appendix-header-body",
+                    "width": 30,
+                    "height": 30
+                  },
+
+
+                  {
+                    "text": "{{govtOfKeralaMl}}",
+                    "style": "appendix-header-body-ml"
+                  },
+                  {
+                    "text": "{{govtOfKerala}}",
+                    "style": "appendix-header-body"
+                  },
+
+                  {
+                    "text": "{{deptUrbanAffairsMl}}",
+                    "style": "appendix-header-body-ml",
+                    "margin": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ]
+                  },
+                  {
+                    "text": "{{deptUrbanAffairs}}",
+                    "style": "appendix-header-body",
+                    "margin": [
+                      0,
+                      0,
+                      0,
+                      0
+                    ]
+                  }
+                ]
+              },
+              {
+                "stack": [
+                  {"color": "gery",
+                    "opacity": 0.3,
+                    "image": "{{logobirth}}",
+                    "width": 50,
+                    "height": 50,
+                    "margin": [
+                      40,
+                      0,
+                      0,
+                      0
+                    ]
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        "layout": "noBorders"
+      },
+      {
+        "style": "ws-head",
+        "table": {
+          "widths": [
+            "*"
+          ],
+          "body": [
+            [
+              {
+                "stack": [
+                  {
+                    "text": "{{tenantMl}}",
+                    "style": "details-body-center-ml"
+                  },
+                  {
+                    "text": "{{tenant}} {{  lbtypecode}}",
+                    "style": "details-body-center-bold"
+                  }
+
+                ]
+              }
+            ]
+          ]
+        },
+        "layout": "noBorders"
+      },
+      {
+        "style": "ws-head",
+        "table": {
+          "widths": [
+            "*"
+          ],
+          "body": [
+            [
+              {
+                "stack": [
+
+                  {
+                    "text": "{{birthCertificateMl}}",
+                    "style": "title-header",
+                    "bold": true
+                  },
+                  {
+                    "text": "{{birthCertificate}}",
+                    "style": "title-header-Times",
+                    "bold": true
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        "layout": "noBorders"
+      },
+      {
+        "style": "ws-head",
+        "table": {
+          "widths": [
+            "*"
+          ],
+          "body": [
+            [
+              {
+                "stack": [
+                  {
+                    "text": "{{issueUnderSection121969ML}}",
+                    "style": "rule-header-ml"
+                  },
+                  {
+                    "text": "{{issueUnderSection121969}}",
+                    "style": "rule-header"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        "layout": "noBorders"
+      },
+      {
+        "style": "ws-head",
+        "table": {
+          "widths": [
+            "*"
+          ],
+          "body": [
+            [
+              {
+                "stack": [
+                  {
+                    "text": "താഴെ പറയുന്ന വിവരങ്ങൾ കേരള സംസ്ഥാനത്തിലെ {{distcodeMl}} ജില്ലയിലെ {{talukcodeMl}} താലൂക്കിലെ  {{tenantMl}} {{lbtypecodeMl}} {{certifyMl}}.",
+                    "style": "rule-header-ml"
+                  },
+                  {
+                    "text": "{{certify}} {{tenant}} {{lbtypecode}}  of Taluk  {{talukcode}}  of District {{distcode}} of State {{statecode}}.",
+                    "style": "rule-header"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        "layout": "noBorders"
+      },
+      {
+        "style": "ws-head",
+        "table": {
+          "widths": [
+            "*"
+          ],
+          "body": [
+            [
+              {
+                "columns": [
+                  {
+                    "text": "{{childName}}",
+                    "width": "49%",
+                    "style": "details-body"
+                  },
+
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{nameMl   }} / {{  name}}",
+                    "style": "details-body"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+                  {
+                    "text": "{{childSex}}",
+                    "width": "49%",
+                    "style": "details-body"
+                  },
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{genderMl  }} / {{  gender}}",
+                    "style": "details-body"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+
+                  {
+                    "text": "{{dateOfBirth}}",
+                    "width": "49%",
+                    "style": "details-body"
+                  },
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{dob  }}  ({{ dobInWords}})",
+                    "style": "details-body-bold"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+
+                  {
+                    "text": "{{placeOfBirthLabel}} ",
+                    "width": "49%",
+                    "style": "details-body"
+                  },
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{ placeOfBirthMl  }} / {{  placeOfBirthEn }}{{  hospitalMainPlace }}",
+                    "style": "details-body"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+
+                  {
+                    "text": "{{nameOfMother}} ",
+                    "width": "49%",
+                    "style": "details-body"
+                  },
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{motherNameMl}} / {{motherName}}",
+                    "style": "details-body"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+                  {
+                    "text": "{{nameOfFather}} ",
+                    "width": "49%",
+                    "style": "details-body"
+                  },
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{fatherNameMl}}  /  {{fatherName}}",
+                    "style": "details-body"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+
+                  {
+                    "text": "{{presentAddressLabelMl}} ",
+                    "width": "49%",
+                    "style": "details-body"
+                  },
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{presentAddressMl}}",
+                    "style": "details-body"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+
+                  {
+                    "text": "{{presentAddressLabel}} ",
+                    "width": "49%",
+                    "style": "details-body-times"
+                  },
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{presentAddress}}",
+                    "style": "details-body-times"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+
+                  {
+                    "text": "{{permanentAddressLabelMl}} ",
+                    "width": "49%",
+                    "style": "details-body"
+                  },
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{registerBirthPermanentMl}}",
+                    "style": "details-body"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+
+                  {
+                    "text": "{{permanentAddressLabel}} ",
+                    "width": "49%",
+                    "style": "details-body-times"
+                  },
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{registerBirthPermanent}}",
+                    "style": "details-body-times"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+                  {
+                    "text": "{{registrationNoLabel}} ",
+                    "width": "49%",
+                    "style": "details-body"
+                  },
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{registrationNo}}",
+                    "style": "details-body-times"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+                  {
+                    "text": "{{registrationDateLabel}} ",
+                    "width": "49%",
+                    "style": "details-body"
+                  },
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{registrationDate}}",
+                    "style": "details-body-times"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+                  {
+                    "text": "{{dateOfIssue  }}: {{ currentDate }} ({{currentTime}})",
+                    "width": "49%",
+                    "style": "details-body"
+                  },
+                  {
+                    "text": " ",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{updatedOn}} :{{updatedDate}} ({{updatingTime}})",
+                    "style": "details-body-times"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "columns": [
+                  {
+                    "text": "{{addressOfIssuingAuthority}} ",
+                    "width": "49%",
+                    "style": "details-body"
+                  },
+                  {
+                    "text": "  :",
+                    "width": "1%"
+                  },
+                  {
+                    "text": "{{registar}} {{tenant}} {{lbtypecode}} ",
+                    "style": "details-body-times"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        "layout": "noBorders"
+      },
+      {
+        "style": "ws-head",
+        "table": {
+          "widths": [
+            "*"
+          ],
+          "body": [
+            [
+              {
+                "columns": [
+                  {
+                    "image": "{{qr_code_image}}",
+                    "width": 45,
+                    "height": 45,
+                    "style": "qr-code"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        "layout": "noBorders"
+      }
+    ],
+    "styles": {
+      "pdf-header": {
+        "fillColor": "#000000",
+        "fontSize": 12,
+        "bold": true,
+        "letterSpacing": 0.74,
+        "alignment": "center",
+        "margin": [
+          0,
+          -10,
+          0,
+          0
+        ]
+      },
+      "appendix-header-body-ml": {
+        "color": "#000000",
+        "fontSize": 13,
+        "alignment": "center"
+      },
+      "main-body-style": {
+        "color": "#000000",
+        "fontSize": 8,
+        "alignment": "center"
+      },
+      "main-body-style_ml": {
+        "color": "#000000",
+        "fontSize": 11,
+        "alignment": "center"
+      },
+      "appendix-header-italic": {
+        "color": "#000000",
+        "fontSize": 9,
+        "bold": true,
+        "fontWeight": 400,
+        "italics": true,
+        "font": "Times",
+        "alignment": "center"
+      },
+      "appendix-header": {
+        "color": "#000000",
+        "bold": true,
+        "fontSize": 11,
+        "fontWeight": 400,
+        "alignment": "center"
+      },
+      "appendix-header-emblem": {
+        "color": "#000000",
+        "alignment": "center",
+        "margin": [
+          0,
+          -30,
+          0,
+          0
+        ]
+      },
+      "instruction-body": {
+        "color": "#000000",
+        "bold": false,
+        "fontSize": 11,
+        "fontWeight": 400,
+        "alignment": "center",
+        "margin": [
+          0,
+          -20,
+          0,
+          0
+        ]
+      },
+      "qr-code": {
+        "color": "#000000",
+        "alignment": "left",
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "footer-red": {
+        "color": "#FF0000",
+        "fontSize": 8,
+        "font": "Times",
+        "alignment": "center",
+        "italics": true
+      },
+      "body-font": {
+        "color": "#000000",
+        "fontSize": 14,
+        "alignment": "center",
+        "margin": [
+          0,
+          -1,
+          0,
+          0
+        ]
+      },
+      "title-header-Times": {
+        "color": "#000000",
+        "bold": true,
+        "fontSize": 10,
+        "font": "Times",
+        "alignment": "center",
+        "margin": [
+          0,
+          -1,
+          0,
+          0
+        ]
+      },
+      "title-header": {
+        "color": "#000000",
+        "bold": true,
+        "fontSize": 10,
+        "alignment": "center",
+        "margin": [
+          0,
+          -1,
+          0,
+          0
+        ]
+      },
+      "title-header_multiLang": {
+        "color": "#000000",
+        "bold": true,
+        "fontSize": 14,
+        "alignment": "center",
+        "margin": [
+          0,
+          0,
+          0,
+          -10
+        ]
+      },
+      "appendix-header-serialNo": {
+        "color": "#000000",
+        "bold": true,
+        "italics": true,
+        "font": "Times",
+        "fontSize": 8,
+        "margin": [
+          0,
+          -5,
+          0,
+          0
+        ]
+      },
+      "appendix-header-formNo": {
+        "color": "#000000",
+        "bold": false,
+        "fontSize": 10,
+        "fontWeight": 400,
+        "margin": [
+          20,
+          -5,
+          0,
+          0
+        ]
+      },
+      "rule-header": {
+        "color": "#000000",
+        "fontSize": 8,
+        "font": "Times",
+        "margin": [
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "rule-header-ml": {
+        "color": "#000000",
+        "fontSize": 9,
+        "margin": [
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "rule-header_multiLang": {
+        "color": "#000000",
+        "bold": false,
+        "fontSize": 13,
+        "fontWeight": 400,
+        "margin": [
+          0,
+          0,
+          0,
+          -1
+        ]
+      },
+      "rule-body": {
+        "color": "#000000",
+        "bold": false,
+        "fontSize": 12,
+        "fontWeight": 400,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "rule-body_multiLang": {
+        "color": "#000000",
+        "bold": false,
+        "font": "Times",
+        "fontSize": 8,
+        "alignment": "center"
+      },
+      "details-body-bottom": {
+        "color": "#000000",
+        "bold": false,
+        "fontSize": 10,
+        "alignment": "bottom"
+      },
+      "details-body-bold": {
+        "color": "#000000",
+        "bold": true,
+        "fontSize": 7,
+        "font": "Times",
+        "alignment": "left"
+      },
+      "details-body": {
+        "color": "#000000",
+        "bold": false,
+        "fontSize": 9,
+        "alignment": "left"
+      },
+      "details-body-times": {
+        "color": "#000000",
+        "font": "Times",
+        "fontSize": 8,
+        "alignment": "left"
+      },
+      "details-body-center-bold": {
+        "color": "#000000",
+        "bold": true,
+        "fontSize": 8,
+        "fontWeight": 100,
+        "font": "Times",
+        "alignment": "center"
+      },
+
+      "details-body-center": {
+        "color": "#000000",
+        "bold": false,
+        "fontSize": 7,
+        "fontWeight": 100,
+        "font": "Times",
+        "alignment": "center"
+      },
+      "details-body-center-ml": {
+        "color": "#000000",
+        "fontSize": 9,
+        "fontWeight": 400,
+        "alignment": "center"
+      },
+      "details-body-center-bottomML": {
+        "color": "#000000",
+        "italics": true,
+        "fontSize": 8,
+        "alignment": "center"
+      },
+      "details-body-center-bottom": {
+        "color": "#000000",
+        "font": "Times",
+        "italics": true,
+        "fontSize": 8,
+        "alignment": "center"
+      },
+      "details-body-center-bottom-bold": {
+        "color": "#000000",
+        "font": "Times",
+        "bold": true,
+        "fontSize": 8,
+        "alignment": "center"
+      },
+      "appendix-header-body": {
+        "color": "#000000",
+        "bold": true,
+        "fontSize": 8,
+        "font": "Times",
+        "alignment": "center"
+      },
+      "receipt-value-down-sub": {
+        "color": "#000000",
+        "bold": false,
+        "fontSize": 13,
+        "fontWeight": 400,
+        "alignment": "left",
+        "margin": [
+          0,
+          0,
+          0,
+          5
+        ]
+      },
+      "receipt-value-down-rec": {
+        "color": "#000000",
+        "bold": false,
+        "fontSize": 15,
+        "fontWeight": 400,
+        "alignment": "left",
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "receipt-value-down": {
+        "color": "#000000",
+        "bold": false,
+        "fontSize": 15,
+        "fontWeight": 400,
+        "alignment": "left",
+        "margin": [
+          -8,
+          0,
+          0,
+          5
+        ]
+      },
+      "pdf-application-no-value": {
+        "fontSize": 14,
+        "margin": [
+          -18,
+          8,
+          0,
+          0
+        ],
+        "color": "#484848"
+      },
+      "pdf-header-text": {
+        "color": "#484848",
+        "fontSize": 22,
+        "bold": true,
+        "letterSpacing": 0.74,
+        "margin": [
+          0,
+          0,
+          0,
+          5
+        ]
+      },
+      "pdf-header-sub-text": {
+
+        "color": "#484848",
+        "fontSize": 17,
+        "letterSpacing": 0.6
+      },
+      "pdf-application-no": {
+        "fontSize": 12,
+        "bold": true,
+        "margin": [
+          -18,
+          8,
+          0,
+          0
+        ],
+        "color": "#484848"
+      },
+      "pdf-card-title": {
+        "fontSize": 13,
+        "bold": true,
+        "margin": [
+          -18,
+          16,
+          8,
+          8
+        ],
+        "color": "#484848",
+        "fontWeight": 500
+      },
+      "pdf-card-no-title": {
+        "fontSize": 13,
+        "bold": true,
+        "color": "#484848",
+        "fontWeight": 500
+      },
+      "pdf-table-card-white": {
+        "fillColor": "white",
+        "fontSize": 7,
+        "color": "#484848",
+        "margin": [
+          -20,
+          -2,
+          -8,
+          -8
+        ]
+      },
+      "pdf-table-card": {
+        "fillColor": "#F2F2F2",
+        "fontSize": 10,
+        "color": "#484848",
+        "margin": [
+          -20,
+          -2,
+          -8,
+          -8
+        ]
+      },
+      "pdf-card-key": {
+        "color": "rgba(0, 0, 0, 0.54)",
+        "fontSize": 10,
+        "margin": [
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      "pdf-card-sub-header": {
+        "color": "rgba(0, 0, 0, 0.94)",
+        "fontSize": 11,
+        "bold": true,
+        "margin": [
+          0,
+          3,
+          0,
+          0
+        ]
+      },
+      "pdf-card-value": {
+        "fontSize": 12,
+        "color": "rgba(0, 0, 0, 0.87)",
+        "margin": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "pdf-head-qr-code": {
+        "fillColor": "#F2F2F2",
+        "margin": [
+          -70,
+          -41,
+          -81,
+          0
+        ]
+      },
+      "pdf-watermark": {
+        "link": "{{watermark}}"
+      }
+    }
+  }
+}
