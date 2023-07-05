@@ -1,0 +1,38 @@
+
+
+java:S1488™"`Immediately return this expression instead of assigning it to the temporary variable "response".(š’ÔÃH¤CRMINORZ
+CODE_SMELL
+Œ
+java:S1488Ë"_Immediately return this expression instead of assigning it to the temporary variable "address".(çáĞÙH§CRMINORZ
+CODE_SMELL
+r
+java:S2637£"GParameter 1 to this call is marked "@NotNull" but null could be passed.(ÉàËŞşÿÿÿÿHªCRMINORZBUG
+n
+java:S2583Á"CChange this condition so that it does not always evaluate to "true"(—¹¸×ıÿÿÿÿH«CRMAJORZBUG
+V
+java:S3599/",Use another way to initialize this instance.(ò¦Õ¨ÿÿÿÿÿH®CRMINORZBUG
+Š
+java:S11710"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿH¯CRMAJORZ
+CODE_SMELL
+Q
+java:S3599<",Use another way to initialize this instance.(¶§ôH°CRMINORZBUG
+Š
+java:S1171="YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿH±CRMAJORZ
+CODE_SMELL
+l	java:S125L"<This block of commented-out lines of code should be removed.(İÌ–ÿÿÿÿÿH²CRMAJORZ
+CODE_SMELL
+X
+java:S1602…",Remove useless curly braces around statement(†È’3H¶CRMINORZ
+CODE_SMELL
+h	java:S125’"<This block of commented-out lines of code should be removed.(Ã³ñÙH·CRMAJORZ
+CODE_SMELL
+m	java:S125Ë"<This block of commented-out lines of code should be removed.(î’ÖàûÿÿÿÿH¼CRMAJORZ
+CODE_SMELL
+h	java:S125‘"<This block of commented-out lines of code should be removed.(ĞØßÜH½CRMAJORZ
+CODE_SMELL
+v
+java:S1134È"DTake the required action to fix the issue indicated by this comment.(¯ÒÖïûÿÿÿÿH¾CRMAJORZ
+CODE_SMELL
+q
+java:S1134İ"DTake the required action to fix the issue indicated by this comment.(¹Ù”‡H¿CRMAJORZ
+CODE_SMELL

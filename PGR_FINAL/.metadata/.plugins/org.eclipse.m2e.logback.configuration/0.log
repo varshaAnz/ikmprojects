@@ -1,0 +1,1236 @@
+2023-03-23 17:20:48,823 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-23 17:21:16,975 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:pgr-services:1.1.4 @ /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/pom.xml.
+2023-03-23 17:21:17,250 [Worker-2: Importing Maven projects] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-03-23 17:21:17,506 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pgr-services/src/main/java
+2023-03-23 17:21:17,506 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pgr-services/src/main/resources
+2023-03-23 17:21:17,507 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pgr-services/src/main/resources
+2023-03-23 17:21:17,508 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pgr-services/src/test/java
+2023-03-23 17:21:18,106 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-03-23 17:21:20,036 [Worker-8: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-03-23 17:21:20,060 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:21:20,062 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 17:21:20,073 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2023-03-23 17:21:20,076 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:21:20,076 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 17:21:41,950 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:21:41,951 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:21:41,951 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:21:41,953 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:21:41,953 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 17:21:49,043 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:21:49,043 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:21:49,043 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:21:49,045 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:21:49,045 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 17:21:56,474 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:21:56,476 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 17:21:56,478 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2023-03-23 17:21:56,479 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:21:56,479 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 17:23:00,291 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:23:00,292 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 17:23:00,293 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:23:00,294 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:23:00,294 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 17:24:55,467 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:24:55,469 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:24:55,469 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:24:55,470 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:24:55,470 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 17:24:58,218 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:24:58,218 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 17:24:58,220 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2023-03-23 17:24:58,223 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:24:58,223 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 17:25:11,411 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:25:11,412 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:25:11,412 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:25:11,414 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:25:11,414 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 17:26:34,599 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-23 17:26:39,462 [Worker-10: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-03-23 17:26:39,699 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:26:39,702 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 17:26:39,712 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2023-03-23 17:26:39,718 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:26:39,719 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 17:29:25,692 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:egov-persister:1.1.4-SNAPSHOT @ /var/www/html/development/Dev/KSMART_PGR/KSMART/core-services/egov-persister/pom.xml.
+2023-03-23 17:29:26,137 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov-persister/src/main/java
+2023-03-23 17:29:26,138 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov-persister/src/main/resources
+2023-03-23 17:29:26,138 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov-persister/src/main/resources
+2023-03-23 17:29:26,138 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov-persister/src/test/java
+2023-03-23 17:29:26,205 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-03-23 17:29:26,669 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:29:26,669 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-23 17:29:26,708 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-03-23 17:29:26,720 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:29:26,720 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART_PGR/KSMART/core-services/egov-persister/src/test/resources
+2023-03-23 17:29:29,895 [Worker-13: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy15240306027454187942.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_15739838418080070419.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp.xml
+2023-03-23 17:29:29,895 [Worker-13: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2023-03-23 17:29:29,896 [Worker-13: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy15240306027454187942.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_15739838418080070419.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2023-03-23 17:29:29,896 [Worker-13: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2023-03-23 17:29:29,896 [Worker-13: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy15240306027454187942.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_15739838418080070419.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2023-03-23 17:29:29,896 [Worker-13: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2023-03-23 17:29:29,899 [Worker-13: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy15240306027454187942.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_15739838418080070419.jar!/lifecycle%2Forg.eclipse.m2e.discovery.extras.m2e-chromatic.xml
+2023-03-23 17:29:29,899 [Worker-13: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.extras.m2e-chromatic does not contain lifecycle mapping metadata
+2023-03-23 17:33:08,237 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:33:08,238 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 17:33:08,239 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:33:08,241 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:33:08,241 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART_PGR/KSMART/core-services/egov-persister/src/test/resources
+2023-03-23 17:36:25,959 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:36:25,959 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 17:36:25,961 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:36:25,963 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:36:25,963 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART_PGR/KSMART/core-services/egov-persister/src/test/resources
+2023-03-23 17:38:03,275 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:38:03,275 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 17:38:03,276 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:38:03,277 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:38:03,277 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART_PGR/KSMART/core-services/egov-persister/src/test/resources
+2023-03-23 17:44:37,490 [Worker-35: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:egov-persister:1.1.4-SNAPSHOT @ /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/pom.xml.
+2023-03-23 17:44:37,740 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov-persister/src/main/java
+2023-03-23 17:44:37,740 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov-persister/src/main/resources
+2023-03-23 17:44:37,741 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov-persister/src/main/resources
+2023-03-23 17:44:37,741 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov-persister/src/test/java
+2023-03-23 17:44:37,926 [Worker-35: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-03-23 17:44:38,499 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:44:38,499 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-23 17:44:38,524 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-03-23 17:44:38,530 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:44:38,530 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-23 17:45:01,729 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:45:01,729 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 17:45:01,730 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:45:01,731 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:45:01,731 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-23 17:45:46,184 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:45:46,185 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 17:45:46,185 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 17:45:46,186 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 17:45:46,186 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-23 18:25:33,862 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 18:25:33,864 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 18:25:33,867 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2023-03-23 18:25:33,869 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 18:25:33,869 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 18:27:50,392 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 18:27:50,392 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 18:27:50,393 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2023-03-23 18:27:50,394 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 18:27:50,394 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 18:28:42,516 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 18:28:42,516 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 18:28:42,518 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2023-03-23 18:28:42,519 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 18:28:42,519 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 18:29:40,967 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 18:29:40,967 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 18:29:40,968 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2023-03-23 18:29:40,969 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 18:29:40,969 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 18:43:04,854 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 18:43:04,855 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 18:43:04,855 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 18:43:04,856 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 18:43:04,856 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-23 19:18:53,420 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 19:18:53,420 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-23 19:18:53,420 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-23 19:18:53,422 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-23 19:18:53,422 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-24 15:38:48,299 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-24 15:38:51,618 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 15:38:51,623 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-24 15:38:51,658 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-03-24 15:38:51,670 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 15:38:51,670 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-24 15:38:54,141 [Worker-6: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-03-24 15:38:54,252 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 15:38:54,252 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-24 15:38:54,266 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2023-03-24 15:38:54,272 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 15:38:54,272 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-24 15:39:48,551 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 15:39:48,552 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-24 15:39:48,552 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-24 15:39:48,552 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 15:39:48,552 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-24 15:52:17,916 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 15:52:17,917 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-24 15:52:17,917 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-24 15:52:17,918 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 15:52:17,918 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-24 16:00:08,142 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:00:08,144 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-24 16:00:08,145 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2023-03-24 16:00:08,147 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:00:08,147 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-24 16:00:36,649 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:00:36,650 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-24 16:00:36,651 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2023-03-24 16:00:36,653 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:00:36,653 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-24 16:06:46,278 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:06:46,279 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-24 16:06:46,280 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2023-03-24 16:06:46,282 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:06:46,283 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-24 16:08:46,490 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:08:46,491 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-24 16:08:46,492 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2023-03-24 16:08:46,493 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:08:46,494 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-24 16:09:16,289 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:09:16,289 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-24 16:09:16,290 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources
+2023-03-24 16:09:16,290 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:09:16,290 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-24 16:10:53,478 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:10:53,478 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-24 16:10:53,478 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-24 16:10:53,479 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:10:53,479 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-24 16:19:00,585 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:19:00,585 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-24 16:19:00,585 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-24 16:19:00,586 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:19:00,586 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-24 16:19:32,072 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:19:32,072 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-24 16:19:32,073 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2023-03-24 16:19:32,075 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:19:32,075 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-24 16:21:07,355 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:21:07,355 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-24 16:21:07,356 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2023-03-24 16:21:07,357 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:21:07,357 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-24 16:22:01,421 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:22:01,422 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-24 16:22:01,423 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 16 resources
+2023-03-24 16:22:01,425 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-24 16:22:01,425 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-27 16:07:41,367 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 16:07:41,368 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-27 16:07:41,368 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-27 16:07:41,370 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-27 16:07:41,370 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-28 17:53:10,058 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 17:53:10,059 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-28 17:53:10,060 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-03-28 17:53:10,061 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 17:53:10,061 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-28 17:54:15,223 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 17:54:15,223 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-28 17:54:15,223 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-28 17:54:15,225 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 17:54:15,225 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-28 18:02:35,750 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 18:02:35,750 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-28 18:02:35,750 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-28 18:02:35,752 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-28 18:02:35,752 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-29 10:52:48,368 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-30 15:50:59,361 [Worker-32: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-30 15:50:59,371 [Worker-32: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-30 15:50:59,403 [Worker-32: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-03-30 15:50:59,410 [Worker-32: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-30 15:50:59,410 [Worker-32: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-30 15:51:01,583 [Worker-27: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-03-30 15:51:01,682 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-30 15:51:01,682 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-30 15:51:01,694 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-03-30 15:51:01,700 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-30 15:51:01,700 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-31 11:46:49,482 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-31 11:48:11,963 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 11:48:11,966 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-31 11:48:11,989 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-03-31 11:48:11,999 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 11:48:11,999 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-31 11:48:13,084 [Worker-10: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-03-31 11:48:13,191 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 11:48:13,191 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-31 11:48:13,203 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-03-31 11:48:13,209 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 11:48:13,209 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-31 11:54:02,656 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 11:54:02,658 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-31 11:54:02,660 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-03-31 11:54:02,662 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 11:54:02,662 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-31 11:54:08,170 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 11:54:08,170 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-31 11:54:08,172 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-03-31 11:54:08,174 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 11:54:08,174 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-31 11:55:59,890 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 11:55:59,890 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-31 11:55:59,891 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-03-31 11:55:59,892 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 11:55:59,892 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-31 14:18:55,793 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-31 16:15:38,258 [Worker-9: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 16:15:38,260 [Worker-9: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-03-31 16:15:38,280 [Worker-9: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-03-31 16:15:38,286 [Worker-9: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 16:15:38,286 [Worker-9: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-03-31 16:15:39,930 [Worker-16: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-03-31 16:15:40,050 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 16:15:40,050 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-31 16:15:40,057 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-03-31 16:15:40,062 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 16:15:40,062 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-31 17:21:30,301 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 17:21:30,304 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-31 17:21:30,306 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-03-31 17:21:30,308 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 17:21:30,309 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-31 19:38:53,478 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 19:38:53,481 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-31 19:38:53,481 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-31 19:38:53,482 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 19:38:53,482 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-31 19:39:56,599 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 19:39:56,599 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-31 19:39:56,601 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-31 19:39:56,602 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 19:39:56,602 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-03-31 20:04:29,751 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 20:04:29,751 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-03-31 20:04:29,752 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-31 20:04:29,753 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-31 20:04:29,753 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 17:05:54,424 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:05:54,425 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 17:05:54,426 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 17:05:54,427 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:05:54,427 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 17:35:47,885 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:35:47,888 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 17:35:47,888 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 17:35:47,890 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:35:47,890 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-04-01 17:35:47,921 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:35:47,921 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 17:35:47,921 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 17:35:47,922 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:35:47,922 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 17:40:02,247 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-01 17:40:10,306 [Worker-7: Launching pgr-services - PGRApp] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-01 17:41:37,174 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:41:37,177 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-04-01 17:41:37,196 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-01 17:41:37,198 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:41:37,198 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-04-01 17:41:37,426 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:41:37,426 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 17:41:37,433 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 17:41:37,434 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:41:37,434 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 17:47:13,222 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:47:13,223 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 17:47:13,224 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 17:47:13,225 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:47:13,225 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 17:56:04,871 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:56:04,871 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 17:56:04,872 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 17:56:04,873 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 17:56:04,873 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:00:03,544 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:00:03,545 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:00:03,545 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 18:00:03,546 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:00:03,546 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:13:08,138 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:13:08,139 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:13:08,139 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 18:13:08,140 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:13:08,140 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:14:25,844 [Worker-38: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:579)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:547)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:503)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:349)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:303)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:198)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1024)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:254)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:311)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:400)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:403)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:514)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:462)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:544)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependency> must match start tag name <version> from line 58 (position: TEXT seen ...<version>postgresql-42.2.8.jar/version>\r\n        </dependency>... @59:22) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:577)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependency> must match start tag name <version> from line 58 (position: TEXT seen ...<version>postgresql-42.2.8.jar/version>\r\n        </dependency>... @59:22) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2090)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1361)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextText(MXParser.java:1281)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1362)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 26 common frames omitted
+2023-04-01 18:14:27,634 [Worker-45: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:579)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:547)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:503)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:349)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:303)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:198)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1024)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:254)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:311)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:400)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:403)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:514)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:462)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:544)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:161)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:255)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependency> must match start tag name <version> from line 58 (position: TEXT seen ...<version>postgresql-42.2.8.jar/version>\r\n        </dependency>... @59:22) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:577)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependency> must match start tag name <version> from line 58 (position: TEXT seen ...<version>postgresql-42.2.8.jar/version>\r\n        </dependency>... @59:22) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2090)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1361)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextText(MXParser.java:1281)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1362)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 26 common frames omitted
+2023-04-01 18:15:36,870 [Worker-45: reload maven project] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-01 18:15:36,885 [Worker-47: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:pgr-services:1.1.4 @ /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/pom.xml.
+2023-04-01 18:15:37,035 [Worker-45: reload maven project] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-01 18:15:37,162 [Worker-47: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-01 18:15:37,385 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:15:37,386 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 18:15:37,386 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 18:15:37,387 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:15:37,387 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:15:39,352 [Worker-47: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-01 18:15:39,357 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:15:39,359 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:15:39,365 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 18:15:39,371 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:15:39,371 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:15:49,971 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:pgr-services:1.1.4 @ /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/pom.xml.
+2023-04-01 18:15:50,081 [Worker-33: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-01 18:15:50,144 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:15:50,145 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 18:15:50,145 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 18:15:50,148 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:15:50,148 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:15:52,178 [Worker-33: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-01 18:15:52,183 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:15:52,184 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:15:52,193 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 18:15:52,196 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:15:52,196 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:15:59,599 [Worker-33: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:15:59,599 [Worker-33: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:15:59,600 [Worker-33: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 18:15:59,601 [Worker-33: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:15:59,601 [Worker-33: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:17:39,977 [Worker-50: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:pgr-services:1.1.4 @ /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/pom.xml.
+2023-04-01 18:17:40,041 [Worker-50: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-01 18:17:40,089 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:17:40,089 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 18:17:40,089 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-01 18:17:40,090 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:17:40,090 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:17:41,892 [Worker-50: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-01 18:17:41,897 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:17:41,897 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:17:41,904 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 18:17:41,906 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:17:41,906 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:22:15,969 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:22:15,970 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:22:15,972 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 18:22:15,973 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:22:15,973 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:24:26,979 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:24:26,981 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:24:26,982 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 18:24:26,984 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:24:26,984 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:30:04,447 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-01 18:30:19,435 [Worker-7: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:30:19,440 [Worker-7: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-04-01 18:30:19,468 [Worker-7: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-01 18:30:19,478 [Worker-7: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:30:19,478 [Worker-7: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-04-01 18:30:21,120 [Worker-14: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-01 18:30:21,247 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:30:21,248 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:30:21,259 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 18:30:21,265 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:30:21,265 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:33:50,628 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:33:50,630 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:33:50,631 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 18:33:50,633 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:33:50,633 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:47:42,544 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:47:42,545 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:47:42,547 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 18:47:42,548 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:47:42,549 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:51:15,854 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:51:15,854 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:51:15,855 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 18:51:15,856 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:51:15,856 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 18:54:46,379 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:54:46,380 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 18:54:46,381 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 18:54:46,382 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 18:54:46,382 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-01 20:15:10,285 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 20:15:10,285 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-01 20:15:10,286 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-01 20:15:10,288 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-01 20:15:10,288 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 12:54:07,862 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 12:54:07,863 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 12:54:07,864 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-03 12:54:07,866 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 12:54:07,866 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 13:13:13,760 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 13:13:13,761 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 13:13:13,763 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-03 13:13:13,764 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 13:13:13,764 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 13:16:07,069 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 13:16:07,072 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-03 13:16:07,072 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 13:16:07,074 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 13:16:07,074 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-04-03 13:17:57,875 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 13:17:57,876 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-03 13:17:57,876 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 13:17:57,878 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 13:17:57,878 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-04-03 13:21:25,070 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 13:21:25,071 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 13:21:25,072 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-03 13:21:25,072 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 13:21:25,073 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 13:26:36,833 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 13:26:36,834 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 13:26:36,835 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-03 13:26:36,837 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 13:26:36,837 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 13:32:23,633 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 13:32:23,634 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 13:32:23,635 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-03 13:32:23,636 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 13:32:23,636 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 14:16:41,073 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 14:16:41,074 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 14:16:41,075 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-03 14:16:41,076 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 14:16:41,076 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 14:17:28,253 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 14:17:28,255 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 14:17:28,256 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-03 14:17:28,257 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 14:17:28,257 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 14:27:02,322 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-03 14:37:12,448 [Worker-16: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 14:37:12,450 [Worker-16: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-04-03 14:37:12,471 [Worker-16: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-03 14:37:12,479 [Worker-16: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 14:37:12,479 [Worker-16: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-04-03 14:37:14,058 [Worker-16: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-03 14:37:14,156 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 14:37:14,157 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 14:37:14,166 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-03 14:37:14,171 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 14:37:14,171 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 15:19:53,540 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 15:19:53,543 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 15:19:53,545 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 17 resources
+2023-04-03 15:19:53,546 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 15:19:53,546 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 15:46:06,081 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 15:46:06,082 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-03 15:46:06,082 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 15:46:06,083 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 15:46:06,083 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 16:13:24,405 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 16:13:24,406 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 16:13:24,407 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-03 16:13:24,408 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 16:13:24,408 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 16:13:43,274 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 16:13:43,274 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 16:13:43,276 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-03 16:13:43,277 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 16:13:43,277 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 16:14:52,413 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 16:14:52,414 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-03 16:14:52,414 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 16:14:52,416 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 16:14:52,416 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-04-03 17:09:58,532 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:09:58,533 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 17:09:58,535 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-03 17:09:58,536 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:09:58,536 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 17:15:10,979 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:15:10,979 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-03 17:15:10,979 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 17:15:10,980 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:15:10,980 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-04-03 17:33:57,959 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:33:57,959 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 17:33:57,960 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-03 17:33:57,963 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:33:57,963 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 17:37:10,117 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:37:10,118 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 17:37:10,119 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-03 17:37:10,121 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:37:10,121 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 17:37:33,292 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:37:33,293 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 17:37:33,294 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-03 17:37:33,296 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:37:33,296 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 17:38:24,199 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:38:24,199 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 17:38:24,200 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-03 17:38:24,201 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:38:24,201 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 17:39:10,210 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:39:10,211 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-03 17:39:10,211 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 17:39:10,212 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:39:10,212 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-04-03 17:39:34,905 [Worker-70: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:39:34,906 [Worker-70: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 17:39:34,907 [Worker-70: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-03 17:39:34,909 [Worker-70: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:39:34,909 [Worker-70: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 17:40:45,348 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:40:45,348 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 17:40:45,349 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-03 17:40:45,350 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:40:45,350 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 17:41:30,051 [Worker-66: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:41:30,051 [Worker-66: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 17:41:30,052 [Worker-66: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-03 17:41:30,053 [Worker-66: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 17:41:30,053 [Worker-66: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-03 21:24:56,695 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 21:24:56,696 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-03 21:24:56,697 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-03 21:24:56,699 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-03 21:24:56,699 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-04 11:29:41,831 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-04 14:41:11,521 [Worker-20: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-04 14:41:11,677 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 14:41:11,679 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 14:41:11,687 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-04 14:41:11,689 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 14:41:11,690 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-04 14:48:55,858 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 14:48:55,861 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-04 14:48:55,863 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-04 14:48:55,864 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-04 14:48:55,864 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-09 07:54:12,867 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-09 07:54:13,043 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-04-24 11:34:51,444 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-24 11:35:22,312 [Worker-4: Launching pgr-services - PGRApp] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-24 11:39:00,770 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 11:39:00,774 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-24 11:39:00,787 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-24 11:39:00,790 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 11:39:00,790 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-24 11:41:30,619 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 11:41:30,622 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-24 11:41:30,623 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-24 11:41:30,625 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 11:41:30,625 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-24 15:36:33,328 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 15:36:33,329 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-24 15:36:33,330 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-24 15:36:33,331 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 15:36:33,331 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-24 16:48:03,667 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 16:48:03,668 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-24 16:48:03,671 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-24 16:48:03,672 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 16:48:03,672 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-24 16:50:54,311 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 16:50:54,311 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-24 16:50:54,313 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-24 16:50:54,314 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 16:50:54,314 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-24 16:51:35,176 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 16:51:35,177 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-24 16:51:35,179 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-24 16:51:35,181 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 16:51:35,181 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-24 16:52:48,607 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 16:52:48,607 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-04-24 16:52:48,608 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-24 16:52:48,610 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-24 16:52:48,610 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-04-27 11:14:01,817 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-02 11:07:35,655 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-02 11:09:36,637 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-02 11:11:07,434 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 11:11:07,437 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-05-02 11:11:07,459 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-02 11:11:07,466 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 11:11:07,466 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-05-02 11:11:08,768 [Worker-8: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-02 11:11:08,881 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 11:11:08,881 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-02 11:11:08,893 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-02 11:11:08,899 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 11:11:08,899 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-02 11:12:13,022 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 11:12:13,024 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-02 11:12:13,026 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-02 11:12:13,028 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 11:12:13,028 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-02 11:42:33,353 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 11:42:33,354 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-02 11:42:33,355 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-02 11:42:33,357 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 11:42:33,357 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-02 12:08:36,795 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:08:36,795 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-02 12:08:36,796 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-02 12:08:36,797 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:08:36,797 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-02 12:17:48,654 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:17:48,655 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-02 12:17:48,656 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-02 12:17:48,658 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:17:48,658 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-02 12:23:36,691 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:23:36,691 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-02 12:23:36,692 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-02 12:23:36,693 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:23:36,693 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-02 12:48:27,741 [Worker-48: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:48:27,742 [Worker-48: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-02 12:48:27,743 [Worker-48: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-02 12:48:27,745 [Worker-48: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:48:27,745 [Worker-48: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-02 13:07:51,791 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:07:51,792 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-02 13:07:51,793 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-02 13:07:51,794 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:07:51,794 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-02 13:27:51,320 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:27:51,320 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-02 13:27:51,321 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-02 13:27:51,323 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:27:51,323 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 10:47:04,215 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 10:47:04,215 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 10:47:04,218 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 10:47:04,220 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 10:47:04,220 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 10:49:21,958 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 10:49:21,958 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 10:49:21,959 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 10:49:21,960 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 10:49:21,960 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 10:54:54,428 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 10:54:54,429 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 10:54:54,430 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 10:54:54,437 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 10:54:54,437 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 11:22:10,279 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 11:22:10,279 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 11:22:10,280 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 11:22:10,281 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 11:22:10,281 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 16:15:26,685 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 16:15:26,685 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 16:15:26,686 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 16:15:26,688 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 16:15:26,688 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 16:19:30,348 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 16:19:30,349 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 16:19:30,350 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 16:19:30,351 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 16:19:30,352 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 16:21:11,921 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 16:21:11,921 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 16:21:11,923 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 16:21:11,924 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 16:21:11,924 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 16:44:58,560 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 16:44:58,561 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 16:44:58,561 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 16:44:58,562 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 16:44:58,562 [Worker-141: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 17:02:46,859 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:02:46,859 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 17:02:46,860 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 17:02:46,861 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:02:46,861 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 17:03:36,245 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:03:36,245 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 17:03:36,246 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 17:03:36,247 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:03:36,247 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 17:09:40,669 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:09:40,670 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 17:09:40,671 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 17:09:40,672 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:09:40,672 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 17:18:36,073 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:18:36,073 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 17:18:36,074 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 17:18:36,075 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:18:36,075 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 17:19:59,196 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:19:59,197 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 17:19:59,197 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 17:19:59,198 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:19:59,198 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-05-03 17:23:29,620 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:23:29,620 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 17:23:29,620 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 17:23:29,622 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:23:29,622 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-05-03 17:32:27,825 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:32:27,825 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-03 17:32:27,826 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 17:32:27,826 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:32:27,826 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-05-03 17:34:15,411 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:34:15,411 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 17:34:15,412 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 17:34:15,412 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:34:15,412 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 17:34:38,319 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:34:38,320 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 17:34:38,321 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 17:34:38,322 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:34:38,322 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-03 17:37:04,850 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:37:04,851 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-03 17:37:04,852 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-03 17:37:04,852 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-03 17:37:04,852 [Worker-179: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-04 10:55:26,161 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-06 10:53:05,863 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-07 11:04:42,827 [Worker-34: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:04:42,829 [Worker-34: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-05-07 11:04:42,852 [Worker-34: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 11:04:42,860 [Worker-34: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:04:42,860 [Worker-34: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-05-07 11:04:44,287 [Worker-38: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-07 11:04:44,401 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:04:44,402 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 11:04:44,413 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 11:04:44,419 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:04:44,419 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 11:24:02,827 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:24:02,829 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 11:24:02,831 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 11:24:02,833 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:24:02,833 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 11:31:51,532 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:31:51,533 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 11:31:51,534 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 11:31:51,536 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:31:51,536 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 11:32:00,330 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:32:00,331 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 11:32:00,333 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 11:32:00,334 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:32:00,334 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 11:32:23,764 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:32:23,764 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 11:32:23,765 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 11:32:23,767 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:32:23,767 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 11:32:35,602 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:32:35,602 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 11:32:35,604 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 11:32:35,605 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:32:35,606 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 11:34:17,305 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:34:17,305 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 11:34:17,306 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 11:34:17,308 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:34:17,308 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 11:36:23,689 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:36:23,689 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 11:36:23,690 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 11:36:23,691 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 11:36:23,691 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 13:25:37,655 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 13:25:37,655 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 13:25:37,656 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 13:25:37,658 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 13:25:37,658 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 13:29:59,953 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 13:29:59,954 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 13:29:59,954 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 13:29:59,955 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 13:29:59,955 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 13:30:47,228 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 13:30:47,229 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 13:30:47,229 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 13:30:47,230 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 13:30:47,230 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 13:30:55,649 [Worker-52: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 13:30:55,650 [Worker-52: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 13:30:55,650 [Worker-52: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 13:30:55,651 [Worker-52: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 13:30:55,652 [Worker-52: Launching pgr-services - PGRApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 13:34:42,415 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 13:34:42,415 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 13:34:42,416 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 13:34:42,418 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 13:34:42,418 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 14:11:21,211 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 14:11:21,211 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 14:11:21,213 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 14:11:21,213 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 14:11:21,213 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 15:04:25,472 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 15:04:25,472 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 15:04:25,473 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 15:04:25,474 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 15:04:25,474 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 15:04:51,198 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 15:04:51,198 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 15:04:51,199 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 15:04:51,201 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 15:04:51,201 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 15:13:51,099 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 15:13:51,099 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 15:13:51,100 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 15:13:51,101 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 15:13:51,101 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 16:12:33,044 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 16:12:33,044 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 16:12:33,045 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 16:12:33,047 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 16:12:33,047 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 16:14:59,485 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 16:14:59,485 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 16:14:59,486 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 16:14:59,487 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 16:14:59,487 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 16:18:19,241 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 16:18:19,241 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 16:18:19,242 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 16:18:19,244 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 16:18:19,244 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 16:19:16,118 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 16:19:16,119 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 16:19:16,119 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 16:19:16,120 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 16:19:16,120 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 16:20:58,994 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 16:20:58,995 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 16:20:58,995 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 16:20:58,996 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 16:20:58,996 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 16:21:59,799 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 16:21:59,799 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 16:21:59,800 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 16:21:59,802 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 16:21:59,802 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 17:03:56,841 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 17:03:56,842 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 17:03:56,842 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 17:03:56,843 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 17:03:56,843 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 17:05:41,432 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 17:05:41,432 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 17:05:41,433 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 17:05:41,434 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 17:05:41,434 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 17:12:07,331 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 17:12:07,331 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 17:12:07,332 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 17:12:07,333 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 17:12:07,333 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 17:46:17,658 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 17:46:17,658 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 17:46:17,659 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 17:46:17,661 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 17:46:17,661 [Worker-149: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-07 17:49:39,744 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 17:49:39,744 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-07 17:49:39,745 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-07 17:49:39,747 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-07 17:49:39,747 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-09 11:09:18,661 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-09 11:12:16,651 [Worker-11: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 11:12:16,654 [Worker-11: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-05-09 11:12:16,682 [Worker-11: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-09 11:12:16,690 [Worker-11: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 11:12:16,691 [Worker-11: Launching egov-persister - EgovPersistApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-05-09 11:12:18,463 [Worker-12: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-09 11:12:18,564 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 11:12:18,565 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-09 11:12:18,575 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-09 11:12:18,581 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 11:12:18,581 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-10 12:40:07,146 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-11 10:40:48,367 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-12 11:18:17,471 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-15 10:45:21,362 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-15 14:58:41,658 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-15 14:58:41,661 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-05-15 14:58:41,681 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-15 14:58:41,687 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-15 14:58:41,687 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/core-services/egov-persister/src/test/resources
+2023-05-15 14:58:42,832 [Worker-24: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-15 14:58:42,952 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-15 14:58:42,952 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-15 14:58:42,964 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-15 14:58:42,970 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-15 14:58:42,971 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-15 15:50:24,778 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-15 15:50:24,780 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-15 15:50:24,782 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-15 15:50:24,784 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-15 15:50:24,784 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-15 15:52:27,726 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-15 15:52:27,727 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-15 15:52:27,728 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-15 15:52:27,729 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-15 15:52:27,729 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 11:03:56,047 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:03:56,048 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 11:03:56,049 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 11:03:56,051 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:03:56,051 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 11:09:51,903 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:09:51,903 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 11:09:51,904 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 11:09:51,905 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:09:51,906 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 11:12:28,907 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:12:28,908 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 11:12:28,909 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 11:12:28,910 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:12:28,910 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 11:16:44,463 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:16:44,464 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 11:16:44,465 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 11:16:44,467 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:16:44,467 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 11:23:12,166 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:23:12,166 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 11:23:12,167 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 11:23:12,168 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:23:12,168 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 11:23:35,192 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:23:35,192 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 11:23:35,193 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 11:23:35,194 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:23:35,194 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 11:29:17,396 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:29:17,396 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 11:29:17,397 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 11:29:17,398 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:29:17,398 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 11:30:09,040 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:30:09,041 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 11:30:09,042 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 11:30:09,044 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:30:09,044 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 11:35:22,905 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:35:22,905 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 11:35:22,906 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 11:35:22,907 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:35:22,907 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 11:46:57,701 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:46:57,701 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 11:46:57,702 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 11:46:57,703 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 11:46:57,703 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 12:17:24,459 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:17:24,460 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 12:17:24,461 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 12:17:24,462 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:17:24,462 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 12:17:26,590 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:17:26,590 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 12:17:26,591 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 12:17:26,592 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:17:26,592 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 12:17:48,713 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:17:48,713 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 12:17:48,715 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 12:17:48,716 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:17:48,716 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 12:22:25,947 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:22:25,947 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 12:22:25,949 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 12:22:25,950 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:22:25,950 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 12:33:12,239 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:33:12,240 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 12:33:12,241 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 12:33:12,242 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:33:12,242 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 12:37:24,931 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:37:24,931 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 12:37:24,932 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 12:37:24,934 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:37:24,934 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 12:37:45,192 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:37:45,192 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 12:37:45,193 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 12:37:45,194 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:37:45,194 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 12:39:09,059 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:39:09,059 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 12:39:09,060 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 12:39:09,061 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:39:09,061 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 12:39:52,368 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:39:52,368 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 12:39:52,369 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 12:39:52,370 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:39:52,370 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 12:55:29,254 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:55:29,254 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 12:55:29,255 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 12:55:29,255 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:55:29,255 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 12:56:29,033 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:56:29,034 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 12:56:29,034 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 12:56:29,035 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 12:56:29,035 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 13:00:06,830 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 13:00:06,831 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 13:00:06,832 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 13:00:06,832 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 13:00:06,832 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 13:01:00,718 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 13:01:00,719 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 13:01:00,720 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 13:01:00,721 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 13:01:00,721 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 13:04:30,442 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 13:04:30,442 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 13:04:30,443 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 13:04:30,444 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 13:04:30,444 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 13:06:33,107 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 13:06:33,107 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 13:06:33,108 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 13:06:33,109 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 13:06:33,109 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 14:35:39,304 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:35:39,304 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 14:35:39,305 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 14:35:39,306 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:35:39,306 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 14:47:51,180 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:47:51,180 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 14:47:51,181 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 14:47:51,182 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:47:51,182 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 14:48:49,191 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:48:49,192 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 14:48:49,192 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 14:48:49,193 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:48:49,193 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 14:51:38,822 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:51:38,823 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 14:51:38,824 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 14:51:38,825 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:51:38,825 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 14:51:54,770 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:51:54,771 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 14:51:54,772 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 14:51:54,773 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:51:54,773 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 14:52:31,248 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:52:31,248 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 14:52:31,249 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 14:52:31,249 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:52:31,249 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 14:52:49,331 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:52:49,332 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 14:52:49,333 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 14:52:49,334 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:52:49,334 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 14:53:58,352 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:53:58,353 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 14:53:58,354 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 14:53:58,356 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 14:53:58,356 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 15:02:20,396 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 15:02:20,396 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 15:02:20,397 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 15:02:20,398 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 15:02:20,398 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 16:51:41,677 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 16:51:41,677 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 16:51:41,678 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 16:51:41,679 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 16:51:41,679 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 17:07:32,365 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 17:07:32,366 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 17:07:32,366 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 17:07:32,367 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 17:07:32,367 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-16 17:08:06,969 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 17:08:06,970 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-16 17:08:06,971 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-16 17:08:06,972 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-16 17:08:06,972 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/PGR_FINAL/KSMART/municipal-services/pgr-services/src/test/resources
+2023-05-18 16:17:31,628 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-23 15:36:30,866 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-25 15:07:55,831 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-31 14:33:07,793 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/home/varsha/Documents/UPYOG/spring-tool-suite-4-4.15.1.RELEASE-e4.24.0-linux.gtk.x86_64/sts-4.15.1.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.3.v20220515-1416/jre" version="17.0.3"/>
+    <libraryInfo home="/home/varsha/Documents/UPYOG/spring-tool-suite-4-4.15.1.RELEASE-e4.24.0-linux.gtk.x86_64/sts-4.15.1.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.3.v20220515-1416" version="17.0.3"/>
+    <libraryInfo home="/home/varsha/Documents/jdk8u345-b01" version="1.8.0_345">
+        <bootpath>
+            <entry path="/home/varsha/Documents/jdk8u345-b01/jre/lib/resources.jar"/>
+            <entry path="/home/varsha/Documents/jdk8u345-b01/jre/lib/rt.jar"/>
+            <entry path="/home/varsha/Documents/jdk8u345-b01/jre/lib/sunrsasign.jar"/>
+            <entry path="/home/varsha/Documents/jdk8u345-b01/jre/lib/jsse.jar"/>
+            <entry path="/home/varsha/Documents/jdk8u345-b01/jre/lib/jce.jar"/>
+            <entry path="/home/varsha/Documents/jdk8u345-b01/jre/lib/charsets.jar"/>
+            <entry path="/home/varsha/Documents/jdk8u345-b01/jre/lib/jfr.jar"/>
+            <entry path="/home/varsha/Documents/jdk8u345-b01/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/home/varsha/Documents/jdk8u345-b01/jre/lib/ext"/>
+            <entry path="/usr/java/packages/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/home/varsha/Documents/jdk8u345-b01/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>

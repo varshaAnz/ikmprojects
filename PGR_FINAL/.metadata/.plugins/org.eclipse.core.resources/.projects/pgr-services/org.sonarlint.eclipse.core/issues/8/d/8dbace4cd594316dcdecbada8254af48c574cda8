@@ -1,0 +1,20 @@
+
+
+java:S1488Õ"cImmediately return this expression instead of assigning it to the temporary variable "idToUserMap".(Æ‡’’HÖ0RMINORZ
+CODE_SMELL
+a
+java:S1481i"0Remove this unused "requestInfo" local variable.(á¶ëƒıÿÿÿÿHÔ0RMINORZ
+CODE_SMELL
+p
+java:S1854i"?Remove this useless assignment to local variable "requestInfo".(á¶ëƒıÿÿÿÿHÎ0RMAJORZ
+CODE_SMELL
+z
+java:S2259o"PA "NullPointerException" could be thrown; "userDetailResponse" is nullable here.(À€“¼üÿÿÿÿHÏ0RMAJORZBUG
+]
+java:S1602?",Remove useless curly braces around statement(ı’ÑğüÿÿÿÿHÓ0RMINORZ
+CODE_SMELL
+]
+java:S16029",Remove useless curly braces around statement(ı’ÑğüÿÿÿÿHÉ0RMINORZ
+CODE_SMELL
+u
+java:S2259S"PA "NullPointerException" could be thrown; "userDetailResponse" is nullable here.(Ó“¦ÍHÊ0RMAJORZBUG

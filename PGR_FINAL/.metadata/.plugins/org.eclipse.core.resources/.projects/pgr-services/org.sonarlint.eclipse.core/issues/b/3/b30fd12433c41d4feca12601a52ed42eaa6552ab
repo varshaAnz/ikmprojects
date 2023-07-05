@@ -1,0 +1,16 @@
+
+„
+java:S1192Ó"ODefine a constant instead of duplicating this literal "JSONPATH_ERROR" 3 times.(ÅĞ¥¿ùÿÿÿÿHâARCRITICALZ
+CODE_SMELL
+}	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ „§HæARMINORZ
+CODE_SMELL
+
+java:S1488x"dImmediately return this expression instead of assigning it to the temporary variable "finalMessage".(ıÖ¿—HçARMINORZ
+CODE_SMELL
+k
+java:S1854P"?Remove this useless assignment to local variable "smsRequests".(”ÑëşHêARMAJORZ
+CODE_SMELL
+h	java:S125€"<This block of commented-out lines of code should be removed.(í¦›ëHëARMAJORZ
+CODE_SMELL
+h	java:S125›"<This block of commented-out lines of code should be removed.(é”HíARMAJORZ
+CODE_SMELL

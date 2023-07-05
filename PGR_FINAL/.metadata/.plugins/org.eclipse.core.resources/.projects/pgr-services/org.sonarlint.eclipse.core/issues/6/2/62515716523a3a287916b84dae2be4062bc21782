@@ -1,0 +1,8 @@
+
+q	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÿöıÿÿÿÿ8Åèª·ô0H±0RMAJORZ
+CODE_SMELL
+
+java:S1128"bRemove this unused import 'com.fasterxml.jackson.databind.deser.impl.ExternalTypeHandler.Builder'.(æÖí÷H²0RMINORZ
+CODE_SMELL
+n
+java:S2583_"DChange this condition so that it does not always evaluate to "false"(È‰‘ùÿÿÿÿH´0RMAJORZBUG

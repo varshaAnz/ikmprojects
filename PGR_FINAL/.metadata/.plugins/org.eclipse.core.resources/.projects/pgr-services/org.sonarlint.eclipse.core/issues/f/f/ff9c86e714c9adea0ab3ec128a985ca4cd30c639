@@ -1,0 +1,7 @@
+
+
+java:S1488+"^Immediately return this expression instead of assigning it to the temporary variable "result".(£¶»¤úÿÿÿÿHïARMINORZ
+CODE_SMELL
+“
+java:S1488?"gImmediately return this expression instead of assigning it to the temporary variable "mdmsCriteriaReq".(Á²²ÈHòARMINORZ
+CODE_SMELL

@@ -1,0 +1,19 @@
+
+g
+java:S1068!";Remove this unused "serviceRequestValidator" private field.(õü®ÇH€FRMAJORZ
+CODE_SMELL
+ê
+java:S1128"]Remove this unused import 'net.logstash.logback.encoder.org.apache.commons.lang.StringUtils'.(Å„Ô‘8«∞á≥Ù0HﬁFRMINORZ
+CODE_SMELL
+ä
+java:S1488í"]Immediately return this expression instead of assigning it to the temporary variable "count".(§ö¿ÊH‡FRMINORZ
+CODE_SMELL
+
+java:S1128"LRemove this unused import 'org.egov.pgr.util.PGRConstants.USERTYPE_CITIZEN'.(Õ–†å8«∞á≥Ù0H„FRMINORZ
+CODE_SMELL
+`
+java:S2864u"4Iterate over the "entrySet" instead of the "keySet".(”ÏòéHÂFRMAJORZ
+CODE_SMELL
+a
+java:S2864π"4Iterate over the "entrySet" instead of the "keySet".(”ÏòéHÊFRMAJORZ
+CODE_SMELL

@@ -1,0 +1,16 @@
+
+s
+java:S1128"BRemove this unused import 'org.egov.common.contract.request.Role'.(éû„öüÿÿÿÿHÔ.RMINORZ
+CODE_SMELL
+\
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±ÄøÿÿÿÿHÖ.RMINORZ
+CODE_SMELL
+n
+java:S1128	";Remove this unused import 'org.egov.pgr.util.PGRConstants'.(ä¡¾Ð8ò¶÷·ô0HØ.RMINORZ
+CODE_SMELL
+y
+java:S1128"ARemove this unused import 'javax.validation.constraints.Pattern'.(¶ò†€øÿÿÿÿ8ò¶÷·ô0HÚ.RMINORZ
+CODE_SMELL
+q
+java:S1128">Remove this unused import 'javax.validation.constraints.Size'.(›«´Ý8ò¶÷·ô0HÜ.RMINORZ
+CODE_SMELL

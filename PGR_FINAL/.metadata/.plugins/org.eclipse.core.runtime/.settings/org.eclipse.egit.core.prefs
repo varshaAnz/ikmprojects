@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=/var/www/html/development/Dev/PGR_FINAL/KSMART/.git\:/var/www/html/development/Dev/KSMART_PGR/KSMART/.git\:
+GitRepositoriesView.GitDirectories.relative=KSMART/.git\:/var/www/html/development/Dev/KSMART_PGR/KSMART/.git\:
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1

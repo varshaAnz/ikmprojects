@@ -1,0 +1,13 @@
+
+
+java:S1488˜"bImmediately return this expression instead of assigning it to the temporary variable "countQuery".(°¿ç°Hí>RMINORZ
+CODE_SMELL
+^
+java:S1602Î",Remove useless curly braces around statement(˜’—ÁüÿÿÿÿHð>RMINORZ
+CODE_SMELL
+t
+java:S1612Î"BReplace this lambda with method reference 'preparedStmtList::add'.(˜’—ÁüÿÿÿÿHñ>RMINORZ
+CODE_SMELL
+†
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÂõÉÕøÿÿÿÿHó>RCRITICALZ
+CODE_SMELL

@@ -1,0 +1,27 @@
+
+i
+java:S1854T"=Remove this useless assignment to local variable "accountId".(ü¿°ôHÅARMAJORZ
+CODE_SMELL
+\
+java:S1066¿"/Merge this if statement with the enclosing one.(ãôûŽHÐARMAJORZ
+CODE_SMELL
+l	java:S125V"<This block of commented-out lines of code should be removed.(î¾ž£ùÿÿÿÿH¢ARMAJORZ
+CODE_SMELL
+
+java:S1192ñ"ODefine a constant instead of duplicating this literal "INVALID SEARCH" 6 times.(·×ÖÕHªARCRITICALZ
+CODE_SMELL
+‡
+java:S3776â"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¼öÃ¤ûÿÿÿÿH³ARCRITICALZ
+CODE_SMELL
+„
+java:S1192Ö"ODefine a constant instead of duplicating this literal "INVALID_SEARCH" 3 times.(â“ŽøÿÿÿÿHÆARCRITICALZ
+CODE_SMELL
+Z
+java:S1481T".Remove this unused "accountId" local variable.(ü¿°ôH±ARMINORZ
+CODE_SMELL
+l
+java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(ÐôÿHÎARMINORZ
+CODE_SMELL
+~
+java:S1192ä"IDefine a constant instead of duplicating this literal "EMPLOYEE" 3 times.(Ïë©äùÿÿÿÿHÊARCRITICALZ
+CODE_SMELL

@@ -1,0 +1,31 @@
+
+ˆ	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÏ ²şÿÿÿÿ8ëØú˜‚1HçFRMINORZ
+CODE_SMELL
+
+java:S1128"VRemove this unused import 'org.egov.pgr.util.PGRConstants.PGR_BUSINESSSERVICE_HEALTH'.(õ‘ÛÑıÿÿÿÿ8ëØú˜‚1HèFRMINORZ
+CODE_SMELL
+h
+java:S1066•"/Merge this if statement with the enclosing one.(ÚÁšÉûÿÿÿÿ8®Øç¢‚1HêFRMAJORZ
+CODE_SMELL
+‡
+java:S1128"TRemove this unused import 'org.egov.pgr.util.PGRConstants.PGR_BUSINESSSERVICE_ENGG'.(é•‡»8ëØú˜‚1HïFRMINORZ
+CODE_SMELL
+o	java:S125"<This block of commented-out lines of code should be removed.(ã†®Õ8›òòõ1HñFRMAJORZ
+CODE_SMELL
+g
+java:S1144Ò".Remove this unused private "getIdList" method.(ÏØ³¿úÿÿÿÿ8›òòõ1HôFRMAJORZ
+CODE_SMELL
+i
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Øè˜ˆ8ÒÛ¿Üô0HöFRMAJORZBUG
+]
+java:S1602V",Remove useless curly braces around statement(¢ü€çüÿÿÿÿHûFRMINORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8›òòõ1HüFRMINORZ
+CODE_SMELL
+t	java:S125ß"<This block of commented-out lines of code should be removed.(ûã¿Àûÿÿÿÿ8›òòõ1HşFRMAJORZ
+CODE_SMELL
+n	java:S125B"<This block of commented-out lines of code should be removed.(Œö§8Ğ‹ü˜‚1HGRMAJORZ
+CODE_SMELL
+s	java:S125["<This block of commented-out lines of code should be removed.(öø¥ÿÿÿÿÿ8–Àöõ1HƒGRMAJORZ
+CODE_SMELL

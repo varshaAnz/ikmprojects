@@ -1,0 +1,11 @@
+
+m	java:S125c"<This block of commented-out lines of code should be removed.(˜åÜ8ï˜Ÿ‚1H‹GRMAJORZ
+CODE_SMELL
+{
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8çÕÂš‚1HŒGRMINORZ
+CODE_SMELL
+p
+java:S1858f"="get" returns a string, there's no need to call "toString()".(è¹¹Ï8–‘è‚1HGRMINORZ
+CODE_SMELL
+s	java:S125i"<This block of commented-out lines of code should be removed.(ÌÍ¶øıÿÿÿÿ8ãÒÌ›‚1HGRMAJORZ
+CODE_SMELL
