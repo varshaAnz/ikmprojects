@@ -1,0 +1,33 @@
+
+g	java:S1255"<This block of commented-out lines of code should be removed.(‡ã“ÈH© RMAJORZ
+CODE_SMELL
+g	java:S125?"<This block of commented-out lines of code should be removed.(±úËìH« RMAJORZ
+CODE_SMELL
+g	java:S125A"<This block of commented-out lines of code should be removed.(Ş÷ª§H¬ RMAJORZ
+CODE_SMELL
+g	java:S125C"<This block of commented-out lines of code should be removed.(”Ã†ôH­ RMAJORZ
+CODE_SMELL
+g	java:S125I"<This block of commented-out lines of code should be removed.(Ü™ÜöH® RMAJORZ
+CODE_SMELL
+g	java:S125K"<This block of commented-out lines of code should be removed.(‚š…H¯ RMAJORZ
+CODE_SMELL
+g	java:S125M"<This block of commented-out lines of code should be removed.(´¤ÊÂH° RMAJORZ
+CODE_SMELL
+Y	java:S108_")Either remove or fill this block of code.(ôÍ’ÍùÿÿÿÿH² RMAJORZ
+CODE_SMELL
+h	java:S125¢"<This block of commented-out lines of code should be removed.(¡¸¡­H³ RMAJORZ
+CODE_SMELL
+m	java:S125İ"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿH´ RMAJORZ
+CODE_SMELL
+J
+java:S1128"Remove this duplicated import.(´‘¨™H¼ RMINORZ
+CODE_SMELL
+I
+java:S1128"Remove this duplicated import.(ª¥Æ*H¾ RMINORZ
+CODE_SMELL
+J
+java:S1128"Remove this duplicated import.(´‘¨™HÀ RMINORZ
+CODE_SMELL
+I
+java:S1128"Remove this duplicated import.(ª¥Æ*HÂ RMINORZ
+CODE_SMELL

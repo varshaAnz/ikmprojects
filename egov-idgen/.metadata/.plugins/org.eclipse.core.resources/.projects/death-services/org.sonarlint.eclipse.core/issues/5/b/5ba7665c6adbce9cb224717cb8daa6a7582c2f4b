@@ -1,0 +1,20 @@
+
+g
+java:S1854%";Remove this useless assignment to local variable "request".(Éæ¶øH¿RMAJORZ
+CODE_SMELL
+h	java:S125Š"<This block of commented-out lines of code should be removed.(Ž‡†HÀRMAJORZ
+CODE_SMELL
+m	java:S125º"<This block of commented-out lines of code should be removed.(ÁçôÃùÿÿÿÿHÁRMAJORZ
+CODE_SMELL
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHÂRMINORZ
+CODE_SMELL
+O
+java:S1128"Remove this duplicated import.(Õë±ÄøÿÿÿÿHÄRMINORZ
+CODE_SMELL
+t
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™HÆRMINORZ
+CODE_SMELL
+{
+java:S1128"PRemove this unused import 'com.fasterxml.jackson.databind.SerializationFeature'.(ª¥Æ*HÈRMINORZ
+CODE_SMELL

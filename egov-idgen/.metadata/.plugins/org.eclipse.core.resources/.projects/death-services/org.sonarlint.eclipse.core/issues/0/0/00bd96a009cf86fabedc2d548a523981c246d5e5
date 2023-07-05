@@ -1,0 +1,60 @@
+
+Š
+java:S1192>"[Define a constant instead of duplicating this literal "dt.death_home_locality_ml," 4 times.(Î×­¥HË$RCRITICALZ
+CODE_SMELL
+‚	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸçšúÿÿÿÿHĞ$RMINORZ
+CODE_SMELL
+‚	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Á§ÎıÿÿÿÿHÑ$RMINORZ
+CODE_SMELL
+|
+java:S3973¹"GUse indentation to denote the code conditionally executed by this "if".(—á¡±ûÿÿÿÿHÒ$RCRITICALZ
+CODE_SMELL
+w
+java:S3973»"GUse indentation to denote the code conditionally executed by this "if".(“Ì—ÇHÔ$RCRITICALZ
+CODE_SMELL
+|
+java:S3973½"GUse indentation to denote the code conditionally executed by this "if".(ÓÖëğüÿÿÿÿHÖ$RCRITICALZ
+CODE_SMELL
+|
+java:S3973¿"GUse indentation to denote the code conditionally executed by this "if".(”Õâ÷øÿÿÿÿHØ$RCRITICALZ
+CODE_SMELL
+w
+java:S3973Á"GUse indentation to denote the code conditionally executed by this "if".(úØĞ‹HÚ$RCRITICALZ
+CODE_SMELL
+¹
+java:S2681Ã"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¸’ŠüùÿÿÿÿHÜ$RMAJORZ
+CODE_SMELL
+[
+java:S1172¥".Remove this unused method parameter "isCount".(»îÉöHİ$RMAJORZ
+CODE_SMELL
+h	java:S125È"<This block of commented-out lines of code should be removed.(¯ÈöôHß$RMAJORZ
+CODE_SMELL
+[
+java:S1172ğ".Remove this unused method parameter "isCount".(»îÉöHà$RMAJORZ
+CODE_SMELL
+m	java:S125û"<This block of commented-out lines of code should be removed.(Ÿ‹‰áùÿÿÿÿHâ$RMAJORZ
+CODE_SMELL
+h	java:S125ş"<This block of commented-out lines of code should be removed.(Â™ş¬Hã$RMAJORZ
+CODE_SMELL
+m	java:S125ƒ"<This block of commented-out lines of code should be removed.(˜ö¶üÿÿÿÿHç$RMAJORZ
+CODE_SMELL
+m	java:S125†"<This block of commented-out lines of code should be removed.(ÂË¡“şÿÿÿÿHé$RMAJORZ
+CODE_SMELL
+m	java:S125‰"<This block of commented-out lines of code should be removed.(›üŒŞùÿÿÿÿHë$RMAJORZ
+CODE_SMELL
+h	java:S125Œ"<This block of commented-out lines of code should be removed.(±Â§¡Hí$RMAJORZ
+CODE_SMELL
+h	java:S125"<This block of commented-out lines of code should be removed.(©£¿ÀHï$RMAJORZ
+CODE_SMELL
+[
+java:S1172—".Remove this unused method parameter "isCount".(‡Ò˜éHñ$RMAJORZ
+CODE_SMELL
+h
+java:S1854°";Remove this useless assignment to local variable "orderBy".(ôˆ¦ÑHó$RMAJORZ
+CODE_SMELL
+[
+java:S1172­".Remove this unused method parameter "isCount".(»îÉöHô$RMAJORZ
+CODE_SMELL
+Y
+java:S1481°",Remove this unused "orderBy" local variable.(ôˆ¦ÑHö$RMINORZ
+CODE_SMELL

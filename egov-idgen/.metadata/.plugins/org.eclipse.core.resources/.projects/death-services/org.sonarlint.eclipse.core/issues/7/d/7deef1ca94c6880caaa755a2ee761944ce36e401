@@ -1,0 +1,67 @@
+
+z
+java:S1854ç"HRemove this useless assignment to local variable "registryDeathDetails".(ÇÿÜ²şÿÿÿÿH  RMAJORZ
+CODE_SMELL
+a
+java:S1481ã"4Remove this unused "applicationType" local variable.(ˆ“ÅÇH¡ RMINORZ
+CODE_SMELL
+f
+java:S1481Á"4Remove this unused "applicationType" local variable.(§‰üÿÿÿÿH› RMINORZ
+CODE_SMELL
+{
+java:S1128("PRemove this unused import 'com.fasterxml.jackson.databind.SerializationFeature'.(ª¥Æ*H§ RMINORZ
+CODE_SMELL
+z
+java:S1854Å"HRemove this useless assignment to local variable "registryDeathDetails".(õ•ÄúÿÿÿÿHš RMAJORZ
+CODE_SMELL
+t
+java:S1854z"CRemove this useless assignment to local variable "applicationType".(¿Í®ßşÿÿÿÿH‰ RMAJORZ
+CODE_SMELL
+l	java:S125U"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿH RMAJORZ
+CODE_SMELL
+j
+java:S1481~"9Remove this unused "registryDeathDetails" local variable.(õ•ÄúÿÿÿÿH RMINORZ
+CODE_SMELL
+p
+java:S1854ã"CRemove this useless assignment to local variable "applicationType".(ˆ“ÅÇHŸ RMAJORZ
+CODE_SMELL
+k
+java:S1481¢"9Remove this unused "registryDeathDetails" local variable.(İß…ªüÿÿÿÿH— RMINORZ
+CODE_SMELL
+a
+java:S1481Ÿ"4Remove this unused "applicationType" local variable.(æØ«H• RMINORZ
+CODE_SMELL
+g	java:S125R"<This block of commented-out lines of code should be removed.(°¼²ÂH€ RMAJORZ
+CODE_SMELL
+m	java:S125‚"<This block of commented-out lines of code should be removed.(ù‰Í×ıÿÿÿÿH RMAJORZ
+CODE_SMELL
+z
+java:S1854¢"HRemove this useless assignment to local variable "registryDeathDetails".(İß…ªüÿÿÿÿH” RMAJORZ
+CODE_SMELL
+k
+java:S1481Å"9Remove this unused "registryDeathDetails" local variable.(õ•ÄúÿÿÿÿH RMINORZ
+CODE_SMELL
+y
+java:S1854~"HRemove this useless assignment to local variable "registryDeathDetails".(õ•ÄúÿÿÿÿHŠ RMAJORZ
+CODE_SMELL
+u
+java:S1854Á"CRemove this useless assignment to local variable "applicationType".(§‰üÿÿÿÿH™ RMAJORZ
+CODE_SMELL
+m	java:S125†"<This block of commented-out lines of code should be removed.(éØ»ÚûÿÿÿÿH’ RMAJORZ
+CODE_SMELL
+p
+java:S1854Ÿ"CRemove this useless assignment to local variable "applicationType".(æØ«H“ RMAJORZ
+CODE_SMELL
+h	java:S125„"<This block of commented-out lines of code should be removed.(…—â’H‘ RMAJORZ
+CODE_SMELL
+h	java:S125€"<This block of commented-out lines of code should be removed.(€Î±ËH RMAJORZ
+CODE_SMELL
+k
+java:S1481ç"9Remove this unused "registryDeathDetails" local variable.(ÇÿÜ²şÿÿÿÿH£ RMINORZ
+CODE_SMELL
+t
+java:S1128'"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™H¥ RMINORZ
+CODE_SMELL
+e
+java:S1481z"4Remove this unused "applicationType" local variable.(¿Í®ßşÿÿÿÿH‹ RMINORZ
+CODE_SMELL

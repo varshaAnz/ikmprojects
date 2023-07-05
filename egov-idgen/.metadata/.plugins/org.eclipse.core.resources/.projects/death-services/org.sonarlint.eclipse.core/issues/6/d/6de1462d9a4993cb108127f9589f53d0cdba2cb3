@@ -1,0 +1,15 @@
+
+l	java:S125"<This block of commented-out lines of code should be removed.(¾íÌòùÿÿÿÿHÕ%RMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(¾íÌòùÿÿÿÿHÖ%RMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(›™¡úÿÿÿÿH×%RMAJORZ
+CODE_SMELL
+µ
+java:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£ªŸ•üÿÿÿÿHØ%RCRITICALZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(¾íÌòùÿÿÿÿHÚ%RMAJORZ
+CODE_SMELL
+]
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠHÛ%RMINORZ
+CODE_SMELL

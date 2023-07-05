@@ -1,0 +1,46 @@
+
+g	java:S125%"<This block of commented-out lines of code should be removed.(˜å¼ÖHÜRMAJORZ
+CODE_SMELL
+l	java:S1251"<This block of commented-out lines of code should be removed.(¦¥¿¼ıÿÿÿÿHİRMAJORZ
+CODE_SMELL
+y
+java:S1854|"HRemove this useless assignment to local variable "registryDeathDetails".(ù¬â‰üÿÿÿÿHŞRMAJORZ
+CODE_SMELL
+t
+java:S1854‡"HRemove this useless assignment to local variable "registryDeathDetails".(¨¨ó0HßRMAJORZ
+CODE_SMELL
+g	java:S125r"<This block of commented-out lines of code should be removed.(¦è°HàRMAJORZ
+CODE_SMELL
+l	java:S125v"<This block of commented-out lines of code should be removed.(éØ»ÚûÿÿÿÿHáRMAJORZ
+CODE_SMELL
+j
+java:S1481|"9Remove this unused "registryDeathDetails" local variable.(ù¬â‰üÿÿÿÿHâRMINORZ
+CODE_SMELL
+h	java:S125"<This block of commented-out lines of code should be removed.(¤ìô¯HäRMAJORZ
+CODE_SMELL
+e
+java:S1481‡"9Remove this unused "registryDeathDetails" local variable.(¨¨ó0HæRMINORZ
+CODE_SMELL
+h	java:S125–"<This block of commented-out lines of code should be removed.(”Õ¨¥HèRMAJORZ
+CODE_SMELL
+h	java:S125˜"<This block of commented-out lines of code should be removed.(è¢†”HéRMAJORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿHêRMAJORZ
+CODE_SMELL
+m	java:S125£"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿHîRMAJORZ
+CODE_SMELL
+l
+java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(ĞôÿHöRMINORZ
+CODE_SMELL
+t
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™HøRMINORZ
+CODE_SMELL
+{
+java:S1128"PRemove this unused import 'com.fasterxml.jackson.databind.SerializationFeature'.(ª¥Æ*HúRMINORZ
+CODE_SMELL
+\
+java:S1128""1Remove this unused import 'java.util.LinkedList'.(»Äğ1HüRMINORZ
+CODE_SMELL
+O
+java:S1128#"Remove this duplicated import.(Õë±ÄøÿÿÿÿHşRMINORZ
+CODE_SMELL

@@ -1,0 +1,376 @@
+2023-03-15 12:32:30,491 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-15 12:33:28,105 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-17 14:56:25,202 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-23 12:34:23,819 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-18 16:25:00,787 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-18 16:25:44,138 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:egov-hrms:1.2.5-SNAPSHOT @ /var/www/html/development/Dev/KSMART/business-services/egov-hrms/pom.xml.
+2023-04-18 16:25:44,305 [Worker-7: Importing Maven projects] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-18 16:25:44,416 [Worker-7: Importing Maven projects] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.0.16.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.16.Final
+2023-04-18 16:25:44,579 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov-hrms/src/main/java
+2023-04-18 16:25:44,580 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov-hrms/src/main/resources
+2023-04-18 16:25:44,580 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov-hrms/src/main/resources
+2023-04-18 16:25:44,580 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov-hrms/src/test/java
+2023-04-18 16:25:44,580 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov-hrms/src/test/resources
+2023-04-18 16:25:44,698 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-04-18 16:25:47,092 [Worker-3: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-04-18 16:25:47,158 [Worker-3: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.0.16.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.16.Final
+2023-04-18 16:25:47,188 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-18 16:25:47,192 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-04-18 16:25:47,203 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-04-18 16:25:47,214 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-18 16:25:47,215 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 47 resources
+2023-04-18 16:25:48,418 [Worker-5: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy2466057313278631135.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_5825352768323786571.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp.xml
+2023-04-18 16:25:48,418 [Worker-5: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2023-04-18 16:25:48,418 [Worker-5: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy2466057313278631135.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_5825352768323786571.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2023-04-18 16:25:48,418 [Worker-5: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2023-04-18 16:25:48,419 [Worker-5: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy2466057313278631135.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_5825352768323786571.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2023-04-18 16:25:48,419 [Worker-5: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2023-04-18 16:25:48,425 [Worker-5: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy2466057313278631135.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_5825352768323786571.jar!/lifecycle%2Forg.eclipse.m2e.discovery.extras.m2e-chromatic.xml
+2023-04-18 16:25:48,425 [Worker-5: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.extras.m2e-chromatic does not contain lifecycle mapping metadata
+2023-04-18 16:26:05,583 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-18 16:26:05,584 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-18 16:26:05,584 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-18 16:26:05,586 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-18 16:26:05,586 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-04-18 16:29:40,747 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:egov-persister:1.1.4-SNAPSHOT @ /var/www/html/development/Dev/KSMART/core-services/egov-persister/pom.xml.
+2023-04-18 16:29:41,052 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov-persister/src/main/java
+2023-04-18 16:29:41,052 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov-persister/src/main/resources
+2023-04-18 16:29:41,052 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov-persister/src/main/resources
+2023-04-18 16:29:41,052 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov-persister/src/test/java
+2023-04-18 16:29:41,077 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-04-18 16:29:41,581 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-18 16:29:41,581 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-04-18 16:29:41,591 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-04-18 16:29:41,596 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-18 16:29:41,597 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART/core-services/egov-persister/src/test/resources
+2023-04-27 11:14:38,471 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-02 11:14:49,103 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-04 14:51:29,769 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-06 15:09:38,851 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-06 16:59:20,648 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:death-services:1.0.0-SNAPSHOT @ /var/www/html/development/Dev/KSMART_Death/KSMART/municipal-services/death-services/pom.xml.
+2023-05-06 16:59:20,794 [Worker-16: Importing Maven projects] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-06 16:59:21,028 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /death-services/src/main/java
+2023-05-06 16:59:21,029 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /death-services/src/main/resources
+2023-05-06 16:59:21,029 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /death-services/src/main/resources
+2023-05-06 16:59:21,029 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /death-services/src/test/java
+2023-05-06 16:59:21,094 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-05-06 16:59:24,029 [Worker-16: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-06 16:59:24,076 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-06 16:59:24,081 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-06 16:59:24,099 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-06 16:59:24,112 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-06 16:59:24,112 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART_Death/KSMART/municipal-services/death-services/src/test/resources
+2023-05-06 16:59:24,990 [Worker-16: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-06 16:59:25,024 [Worker-16: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.0.16.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.16.Final
+2023-05-06 16:59:25,038 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-06 16:59:25,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-06 16:59:25,040 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-06 16:59:25,042 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-06 16:59:25,043 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 47 resources
+2023-05-06 16:59:25,439 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-06 16:59:25,439 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-05-06 16:59:25,451 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-06 16:59:25,455 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-06 16:59:25,455 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART/core-services/egov-persister/src/test/resources
+2023-05-11 14:54:10,513 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-11 14:55:12,718 [Worker-5: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-11 14:55:12,887 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-11 14:55:12,889 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-11 14:55:12,902 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-11 14:55:12,913 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-11 14:55:12,913 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART_Death/KSMART/municipal-services/death-services/src/test/resources
+2023-05-11 14:55:14,549 [Worker-5: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-11 14:55:14,586 [Worker-5: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.0.16.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.16.Final
+2023-05-11 14:55:14,678 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-11 14:55:14,679 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-11 14:55:14,681 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-11 14:55:14,689 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-11 14:55:14,690 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 47 resources
+2023-05-11 14:55:14,946 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-11 14:55:14,946 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-05-11 14:55:14,959 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-11 14:55:14,963 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-11 14:55:14,963 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART/core-services/egov-persister/src/test/resources
+2023-05-12 12:54:43,094 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-13 11:47:04,581 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:egov-accesscontrol:1.1.3-SNAPSHOT @ /var/www/html/development/Dev/KSMART_Death/KSMART/core-services/egov-accesscontrol/pom.xml.
+2023-05-13 11:47:06,129 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/egov/services/services-common/0.4.0/services-common-0.4.0.pom
+2023-05-13 11:47:06,230 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/springframework/boot/spring-boot-starter-cache/2.2.6.RELEASE/spring-boot-starter-cache-2.2.6.RELEASE.pom
+2023-05-13 11:47:07,072 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/springframework/boot/spring-boot-starter-cache/2.2.6.RELEASE/spring-boot-starter-cache-2.2.6.RELEASE.pom
+2023-05-13 11:47:07,481 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.2.6.RELEASE/spring-boot-starter-cache-2.2.6.RELEASE.pom
+2023-05-13 11:47:07,525 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.2.6.RELEASE/spring-boot-starter-cache-2.2.6.RELEASE.pom
+2023-05-13 11:47:07,786 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.pom
+2023-05-13 11:47:07,866 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.pom
+2023-05-13 11:47:07,892 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.pom
+2023-05-13 11:47:07,918 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.pom
+2023-05-13 11:47:08,002 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/junit/junit-bom/5.6.2/junit-bom-5.6.2.pom
+2023-05-13 11:47:08,083 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/junit/junit-bom/5.6.2/junit-bom-5.6.2.pom
+2023-05-13 11:47:08,109 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.6.2/junit-bom-5.6.2.pom
+2023-05-13 11:47:08,137 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.6.2/junit-bom-5.6.2.pom
+2023-05-13 11:47:08,219 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/flywaydb/flyway-core/6.4.4/flyway-core-6.4.4.pom
+2023-05-13 11:47:08,301 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/flywaydb/flyway-core/6.4.4/flyway-core-6.4.4.pom
+2023-05-13 11:47:08,328 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/6.4.4/flyway-core-6.4.4.pom
+2023-05-13 11:47:08,359 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/6.4.4/flyway-core-6.4.4.pom
+2023-05-13 11:47:08,444 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/flywaydb/flyway-parent/6.4.4/flyway-parent-6.4.4.pom
+2023-05-13 11:47:08,526 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/flywaydb/flyway-parent/6.4.4/flyway-parent-6.4.4.pom
+2023-05-13 11:47:08,553 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-parent/6.4.4/flyway-parent-6.4.4.pom
+2023-05-13 11:47:08,587 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-parent/6.4.4/flyway-parent-6.4.4.pom
+2023-05-13 11:47:08,651 [Worker-29: Importing Maven projects] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-13 11:47:08,740 [AetherRepositoryConnector-nexus-repo.egovernments.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/egov/services/services-common/0.4.0/services-common-0.4.0.jar
+2023-05-13 11:47:08,866 [AetherRepositoryConnector-nexus-repo.egovernments.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/egov/services/services-common/0.4.0/services-common-0.4.0.jar
+2023-05-13 11:47:09,043 [AetherRepositoryConnector-nexus-repo.egovernments.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/springframework/boot/spring-boot-starter-cache/2.2.6.RELEASE/spring-boot-starter-cache-2.2.6.RELEASE.jar
+2023-05-13 11:47:09,320 [AetherRepositoryConnector-nexus-repo.egovernments.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/flywaydb/flyway-core/6.4.4/flyway-core-6.4.4.jar
+2023-05-13 11:47:09,329 [AetherRepositoryConnector-nexus-repo.egovernments.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.jar
+2023-05-13 11:47:09,440 [AetherRepositoryConnector-nexus-repo.egovernments.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/springframework/boot/spring-boot-starter-cache/2.2.6.RELEASE/spring-boot-starter-cache-2.2.6.RELEASE.jar
+2023-05-13 11:47:09,753 [AetherRepositoryConnector-nexus-repo.egovernments.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/flywaydb/flyway-core/6.4.4/flyway-core-6.4.4.jar
+2023-05-13 11:47:10,040 [AetherRepositoryConnector-nexus-repo.egovernments.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.jar
+2023-05-13 11:47:10,068 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.2.6.RELEASE/spring-boot-starter-cache-2.2.6.RELEASE.jar
+2023-05-13 11:47:10,092 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.jar
+2023-05-13 11:47:10,127 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.2.6.RELEASE/spring-boot-starter-cache-2.2.6.RELEASE.jar
+2023-05-13 11:47:10,140 [AetherRepositoryConnector-repo.maven.apache.org-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/6.4.4/flyway-core-6.4.4.jar
+2023-05-13 11:47:10,176 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.jar
+2023-05-13 11:47:10,202 [AetherRepositoryConnector-repo.maven.apache.org-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/6.4.4/flyway-core-6.4.4.jar
+2023-05-13 11:47:10,360 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:egov-hrms:1.2.5-SNAPSHOT @ /var/www/html/development/Dev/KSMART/business-services/egov-hrms/pom.xml.
+2023-05-13 11:47:10,381 [Worker-29: Importing Maven projects] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.0.16.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.16.Final
+2023-05-13 11:47:10,466 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:egov-persister:1.1.4-SNAPSHOT @ /var/www/html/development/Dev/KSMART/core-services/egov-persister/pom.xml.
+2023-05-13 11:47:10,569 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:death-services:1.0.0-SNAPSHOT @ /var/www/html/development/Dev/KSMART_Death/KSMART/municipal-services/death-services/pom.xml.
+2023-05-13 11:47:10,656 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.egov:egov-accesscontrol:1.1.3-SNAPSHOT @ /var/www/html/development/Dev/KSMART_Death/KSMART/core-services/egov-accesscontrol/pom.xml.
+2023-05-13 11:47:11,058 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov-accesscontrol/src/main/java
+2023-05-13 11:47:11,058 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov-accesscontrol/src/main/resources
+2023-05-13 11:47:11,059 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov-accesscontrol/src/main/resources
+2023-05-13 11:47:11,061 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /egov-accesscontrol/src/test/java
+2023-05-13 11:47:11,061 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /egov-accesscontrol/src/test/resources
+2023-05-13 11:47:11,232 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2023-05-13 11:47:12,183 [Worker-30: Download sources and javadoc] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-13 11:47:13,008 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/egov/services/services-common/0.4.0/services-common-0.4.0-sources.jar
+2023-05-13 11:47:13,649 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/egov/services/services-common/0.4.0/services-common-0.4.0-sources.jar
+2023-05-13 11:47:14,058 [Worker-29: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-13 11:47:14,116 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-13 11:47:14,119 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-13 11:47:14,148 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/egov/services/services-common/0.4.0/services-common-0.4.0-sources.jar
+2023-05-13 11:47:14,150 [Worker-30: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.egov.services:services-common:0.4.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.egov.services:services-common:jar:sources:0.4.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-05-13 11:47:14,151 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-13 11:47:14,163 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-13 11:47:14,164 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART_Death/KSMART/municipal-services/death-services/src/test/resources
+2023-05-13 11:47:14,290 [Worker-25: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy17692491927637349643.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_12055558256026607611.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp.xml
+2023-05-13 11:47:14,290 [Worker-25: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-wtp does not contain lifecycle mapping metadata
+2023-05-13 11:47:14,290 [Worker-25: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy17692491927637349643.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_12055558256026607611.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2023-05-13 11:47:14,290 [Worker-25: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2023-05-13 11:47:14,291 [Worker-25: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy17692491927637349643.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_12055558256026607611.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2023-05-13 11:47:14,291 [Worker-25: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2023-05-13 11:47:14,298 [Worker-25: Discover lifecycle mappings] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/tmp/RemoteBundleDiscoveryStrategy17692491927637349643.tmp/org.eclipse.m2e.discovery.oss_catalog_1.14.jar_12055558256026607611.jar!/lifecycle%2Forg.eclipse.m2e.discovery.extras.m2e-chromatic.xml
+2023-05-13 11:47:14,298 [Worker-25: Discover lifecycle mappings] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.extras.m2e-chromatic does not contain lifecycle mapping metadata
+2023-05-13 11:47:14,778 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/springframework/boot/spring-boot-starter-cache/2.2.6.RELEASE/spring-boot-starter-cache-2.2.6.RELEASE-sources.jar
+2023-05-13 11:47:15,479 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/springframework/boot/spring-boot-starter-cache/2.2.6.RELEASE/spring-boot-starter-cache-2.2.6.RELEASE-sources.jar
+2023-05-13 11:47:15,501 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-13 11:47:15,501 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-13 11:47:15,507 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2023-05-13 11:47:15,512 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-13 11:47:15,512 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 41 resources
+2023-05-13 11:47:15,723 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.2.6.RELEASE/spring-boot-starter-cache-2.2.6.RELEASE-sources.jar
+2023-05-13 11:47:15,766 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.2.6.RELEASE/spring-boot-starter-cache-2.2.6.RELEASE-sources.jar
+2023-05-13 11:47:15,779 [Worker-30: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-cache:2.2.6.RELEASE
+2023-05-13 11:47:16,330 [Worker-29: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-13 11:47:16,361 [Worker-29: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.0.16.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.16.Final
+2023-05-13 11:47:16,368 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-13 11:47:16,368 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-13 11:47:16,372 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-13 11:47:16,381 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-13 11:47:16,381 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 47 resources
+2023-05-13 11:47:16,599 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2-sources.jar
+2023-05-13 11:47:16,634 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-13 11:47:16,635 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-05-13 11:47:16,647 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-13 11:47:16,654 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-13 11:47:16,654 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART/core-services/egov-persister/src/test/resources
+2023-05-13 11:47:17,322 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2-sources.jar
+2023-05-13 11:47:17,568 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2-sources.jar
+2023-05-13 11:47:17,637 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2-sources.jar
+2023-05-13 11:47:17,652 [Worker-30: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-engine:5.6.2
+2023-05-13 11:47:18,401 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/flywaydb/flyway-core/6.4.4/flyway-core-6.4.4-sources.jar
+2023-05-13 11:47:19,165 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/flywaydb/flyway-core/6.4.4/flyway-core-6.4.4-sources.jar
+2023-05-13 11:47:19,415 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/6.4.4/flyway-core-6.4.4-sources.jar
+2023-05-13 11:47:19,505 [Worker-30: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/6.4.4/flyway-core-6.4.4-sources.jar
+2023-05-13 11:47:19,524 [Worker-30: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.flywaydb:flyway-core:6.4.4
+2023-05-13 11:47:19,706 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-13 11:47:19,707 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-13 11:47:19,707 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-13 11:47:19,707 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-13 11:47:19,708 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-13 11:49:25,391 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/releases/org/egov/services/services-common/0.4.0/services-common-0.4.0-javadoc.jar
+2023-05-13 11:49:26,218 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nexus-repo.egovernments.org/nexus/content/repositories/snapshots/org/egov/services/services-common/0.4.0/services-common-0.4.0-javadoc.jar
+2023-05-13 11:49:26,847 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/egov/services/services-common/0.4.0/services-common-0.4.0-javadoc.jar
+2023-05-13 11:49:26,848 [Worker-34: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.egov.services:services-common:0.4.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.egov.services:services-common:jar:javadoc:0.4.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-05-17 15:24:45,043 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-17 15:24:50,899 [Worker-1: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-17 15:24:51,109 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 15:24:51,111 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-17 15:24:51,127 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 15:24:51,138 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 15:24:51,138 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART_Death/KSMART/municipal-services/death-services/src/test/resources
+2023-05-17 15:24:52,907 [Worker-1: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-17 15:24:53,000 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 15:24:53,001 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-17 15:24:53,004 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2023-05-17 15:24:53,008 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 15:24:53,008 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 41 resources
+2023-05-17 15:24:54,111 [Worker-10: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-17 15:24:54,148 [Worker-10: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.0.16.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.16.Final
+2023-05-17 15:24:54,163 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 15:24:54,163 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 15:24:54,165 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 15:24:54,172 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 15:24:54,173 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 47 resources
+2023-05-17 15:24:54,593 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 15:24:54,593 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-05-17 15:24:54,608 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-17 15:24:54,616 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 15:24:54,616 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART/core-services/egov-persister/src/test/resources
+2023-05-17 15:29:52,066 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 15:29:52,067 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 15:29:52,069 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 15:29:52,070 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 15:29:52,070 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 16:32:54,080 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 16:32:54,080 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 16:32:54,082 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 16:32:54,084 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 16:32:54,084 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:07:28,025 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:07:28,026 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:07:28,027 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:07:28,029 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:07:28,029 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:13:51,211 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:13:51,212 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:13:51,213 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:13:51,214 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:13:51,214 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:23:19,860 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:23:19,860 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:23:19,861 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:23:19,862 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:23:19,862 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:24:09,413 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:24:09,413 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:24:09,415 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:24:09,416 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:24:09,416 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:25:12,854 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:25:12,855 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:25:12,856 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:25:12,857 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:25:12,857 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:28:04,072 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:28:04,072 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:28:04,073 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:28:04,075 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:28:04,075 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:36:08,712 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:36:08,713 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:36:08,714 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:36:08,715 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:36:08,715 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:36:29,963 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:36:29,963 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:36:29,964 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:36:29,966 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:36:29,966 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:39:21,861 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:39:21,862 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:39:21,863 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:39:21,865 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:39:21,865 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:40:02,015 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:40:02,016 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:40:02,017 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:40:02,018 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:40:02,018 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:40:40,607 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:40:40,607 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:40:40,608 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:40:40,609 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:40:40,609 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:44:21,691 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:44:21,692 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:44:21,694 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:44:21,696 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:44:21,696 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:46:19,927 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:46:19,928 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:46:19,929 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:46:19,930 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:46:19,930 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:47:31,831 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:47:31,831 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-17 17:47:31,832 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-17 17:47:31,833 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:47:31,833 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:59:35,124 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:59:35,125 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-17 17:59:35,125 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-17 17:59:35,126 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-17 17:59:35,126 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART/core-services/egov-persister/src/test/resources
+2023-05-24 14:33:10,196 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-31 15:37:36,702 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-31 17:00:40,994 [Worker-18: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-31 17:00:41,249 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 17:00:41,253 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-31 17:00:41,272 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-31 17:00:41,284 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 17:00:41,284 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART_Death/KSMART/municipal-services/death-services/src/test/resources
+2023-05-31 17:00:43,043 [Worker-18: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-31 17:00:43,127 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 17:00:43,128 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-31 17:00:43,133 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2023-05-31 17:00:43,136 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 17:00:43,137 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 41 resources
+2023-05-31 17:00:43,753 [Worker-18: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact junit:junit-dep:jar:4.11-beta-1 has been relocated to junit:junit:jar:4.11-beta-1: The artifact junit:junit does not contain Hamcrest anymore but declares a dependency to Hamcrest. Thus, junit:junit-dep has become obsolete.
+2023-05-31 17:00:43,801 [Worker-18: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.0.16.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.0.16.Final
+2023-05-31 17:00:43,825 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 17:00:43,826 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-31 17:00:43,828 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 25 resources
+2023-05-31 17:00:43,837 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 17:00:43,837 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 47 resources
+2023-05-31 17:00:44,121 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 17:00:44,121 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-05-31 17:00:44,136 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2023-05-31 17:00:44,143 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-31 17:00:44,143 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /var/www/html/development/Dev/KSMART/core-services/egov-persister/src/test/resources
+2023-06-27 16:42:09,880 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-27 16:43:00,965 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

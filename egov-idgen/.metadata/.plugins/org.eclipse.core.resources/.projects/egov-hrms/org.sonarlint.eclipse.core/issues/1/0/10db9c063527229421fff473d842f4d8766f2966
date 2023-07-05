@@ -1,0 +1,10 @@
+
+™
+java:S1192A"eDefine a constant instead of duplicating this literal "Exception while making the db call: " 4 times.(Î×†÷ÿÿÿÿÿH)RCRITICALZ
+CODE_SMELL
+c
+java:S1172G"2Remove this unused method parameter "requestInfo".(Ş—ø×ûÿÿÿÿH¢)RMAJORZ
+CODE_SMELL
+|
+java:S1192B"HDefine a constant instead of duplicating this literal "query; " 5 times.(Ê£œïúÿÿÿÿH¤)RCRITICALZ
+CODE_SMELL

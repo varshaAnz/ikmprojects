@@ -1,0 +1,7 @@
+
+l	java:S125"<This block of commented-out lines of code should be removed.(¾íÌòùÿÿÿÿHÒ%RMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(¾íÌòùÿÿÿÿHÓ%RMAJORZ
+CODE_SMELL
+†	java:S116¼"ZRename this field "ApplicationDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡à§şHÔ%RMINORZ
+CODE_SMELL

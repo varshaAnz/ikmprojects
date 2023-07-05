@@ -1,0 +1,9 @@
+
+ƒ	java:S116p"SRename this field "IsActive" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝÇë­þÿÿÿÿH…RMINORZ
+CODE_SMELL
+\
+java:S1874a"0Remove this use of "NotEmpty"; it is deprecated.(…ô”þH†RMINORZ
+CODE_SMELL
+\
+java:S1874g"0Remove this use of "NotEmpty"; it is deprecated.(…ô”þH‡RMINORZ
+CODE_SMELL

@@ -1,0 +1,270 @@
+
+˜
+java:S1192ÿ	"hDefine a constant instead of duplicating this literal "No file store id found from pdf service" 3 times.(Œğ¢òHÄ RCRITICALZ
+CODE_SMELL
+
+java:S1192f"PDefine a constant instead of duplicating this literal "[\\[\\]\\(\\)]" 74 times.(•”HÈ RCRITICALZ
+CODE_SMELL
+
+java:S1192†
+"JDefine a constant instead of duplicating this literal "PDF_ERROR" 3 times.(ÎÇÏ÷üÿÿÿÿH“!RCRITICALZ
+CODE_SMELL
+
+java:S1192²"JDefine a constant instead of duplicating this literal "$tenantId" 4 times.(¼¥éÑúÿÿÿÿH—!RCRITICALZ
+CODE_SMELL
+
+java:S1192†
+"XDefine a constant instead of duplicating this literal "Error in generating PDF" 3 times.(ÎÇÏ÷üÿÿÿÿHœ!RCRITICALZ
+CODE_SMELL
+š
+java:S1192ş	"eDefine a constant instead of duplicating this literal "EMPTY_FILESTORE_IDS_FROM_PDF_SERVICE" 3 times.(í§–›øÿÿÿÿH !RCRITICALZ
+CODE_SMELL
+
+java:S1192¨
+"_Define a constant instead of duplicating this literal "Error while fetching MDMS data" 6 times.(ä»ïØH¤!RCRITICALZ
+CODE_SMELL
+‚	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÑöéûÿÿÿÿH«!RMINORZ
+CODE_SMELL
+‚	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¤­¦ÿÿÿÿÿH¬!RMINORZ
+CODE_SMELL
+
+java:S1488”"^Immediately return this expression instead of assigning it to the temporary variable "result".(Šå ùÿÿÿÿH­!RMINORZ
+CODE_SMELL
+”
+java:S1488œ"bImmediately return this expression instead of assigning it to the temporary variable "regDetails".(™£œƒøÿÿÿÿH°!RMINORZ
+CODE_SMELL
+”
+java:S1488¤"bImmediately return this expression instead of assigning it to the temporary variable "regDetails".(™£œƒøÿÿÿÿH³!RMINORZ
+CODE_SMELL
+Z
+java:S5411ü"(Use a primitive boolean expression here.(‡ÔãšûÿÿÿÿH¶!RMINORZ
+CODE_SMELL
+U
+java:S5411"(Use a primitive boolean expression here.(ˆ¸ŠÙH¹!RMINORZ
+CODE_SMELL
+U
+java:S5411«"(Use a primitive boolean expression here.(İ™–ğH¼!RMINORZ
+CODE_SMELL
+b
+java:S4973”"<Strings and Boxed types should be compared using "equals()".(”›¶†H¿!RMAJORZBUG
+b
+java:S4973µ"<Strings and Boxed types should be compared using "equals()".(ü•¼êHÂ!RMAJORZBUG
+_
+java:S1481Y"3Remove this unused "deathBasicDtls" local variable.(ùé±õHÅ!RMINORZ
+CODE_SMELL
+ˆ
+java:S1858Z"W"DEATH_PLACE_HOSPITAL" is already a string, there's no need to call "toString()" on it.(àƒËğÿÿÿÿÿHÇ!RMINORZ
+CODE_SMELL
+†
+java:S1858p"Z"DEATH_PLACE_INSTITUTION" is already a string, there's no need to call "toString()" on it.(ÚóºëHÉ!RMINORZ
+CODE_SMELL
+ƒ
+java:S3776©"SRefactor this method to reduce its Cognitive Complexity from 320 to the 15 allowed.(€„§—HË!RCRITICALZ
+CODE_SMELL
+}
+java:S1858µ"K"getDeceasedGender" returns a string, there's no need to call "toString()".(»ôòÊıÿÿÿÿH‹#RMINORZ
+CODE_SMELL
+m	java:S125¹"<This block of commented-out lines of code should be removed.(çÄúÿıÿÿÿÿH#RMAJORZ
+CODE_SMELL
+U	java:S108Î")Either remove or fill this block of code.(”ı¾H’#RMAJORZ
+CODE_SMELL
+U	java:S108×")Either remove or fill this block of code.(ä¦–éH“#RMAJORZ
+CODE_SMELL
+U	java:S108Û")Either remove or fill this block of code.(ååÌõH”#RMAJORZ
+CODE_SMELL
+U	java:S108ß")Either remove or fill this block of code.(‹ª¶H•#RMAJORZ
+CODE_SMELL
+T	java:S108ä")Either remove or fill this block of code.(ÄÓè9H–#RMAJORZ
+CODE_SMELL
+U	java:S108è")Either remove or fill this block of code.(™µìùH—#RMAJORZ
+CODE_SMELL
+U	java:S108ì")Either remove or fill this block of code.(ïÜ”ÁH˜#RMAJORZ
+CODE_SMELL
+Y
+java:S1125ü"'Remove the unnecessary boolean literal.(‡ÔãšûÿÿÿÿH™#RMINORZ
+CODE_SMELL
+t
+java:S1858ı"G"WIFE" is already a string, there's no need to call "toString()" on it.(¼Ø¤ÈHœ#RMINORZ
+CODE_SMELL
+w
+java:S1858ş"J"WIFE_ML" is already a string, there's no need to call "toString()" on it.(É ßÑH#RMINORZ
+CODE_SMELL
+|
+java:S1858ÿ"J"WIFE_EN" is already a string, there's no need to call "toString()" on it.(ÛêÂöúÿÿÿÿH #RMINORZ
+CODE_SMELL
+|
+java:S1858"J"HUSBAND" is already a string, there's no need to call "toString()" on it.(éšŸùûÿÿÿÿH¢#RMINORZ
+CODE_SMELL
+
+java:S1858‚"\"MALE_DEPENDENT_HUSBAND_ML" is already a string, there's no need to call "toString()" on it.(²†ùÕûÿÿÿÿH¤#RMINORZ
+CODE_SMELL
+
+java:S1858ƒ"\"MALE_DEPENDENT_HUSBAND_EN" is already a string, there's no need to call "toString()" on it.(¥èÒùÿÿÿÿH¦#RMINORZ
+CODE_SMELL
+T
+java:S1125"'Remove the unnecessary boolean literal.(ˆ¸ŠÙH¨#RMINORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(¡…ÃäùÿÿÿÿH«#RMAJORZ
+CODE_SMELL
+h	java:S125¥"<This block of commented-out lines of code should be removed.(ÿ¤õâH¬#RMAJORZ
+CODE_SMELL
+h	java:S125¨"<This block of commented-out lines of code should be removed.(ÂËã¾H®#RMAJORZ
+CODE_SMELL
+T
+java:S1125«"'Remove the unnecessary boolean literal.(İ™–ğH°#RMINORZ
+CODE_SMELL
+h	java:S125¿"<This block of commented-out lines of code should be removed.(À¸éâH³#RMAJORZ
+CODE_SMELL
+
+java:S1858"S"DEATH_PLACE_HOME" is already a string, there's no need to call "toString()" on it.(Ûºº_H´#RMINORZ
+CODE_SMELL
+h	java:S125Ş"<This block of commented-out lines of code should be removed.(ï›îH¶#RMAJORZ
+CODE_SMELL
+h	java:S125ş"<This block of commented-out lines of code should be removed.(»ñ…ÂH¾#RMAJORZ
+CODE_SMELL
+‰
+java:S1858¹"W"DEATH_PLACE_HOSPITAL" is already a string, there's no need to call "toString()" on it.(á™·ìşÿÿÿÿHÆ#RMINORZ
+CODE_SMELL
+Œ
+java:S1858Ì"Z"DEATH_PLACE_INSTITUTION" is already a string, there's no need to call "toString()" on it.(Å¿å¸ùÿÿÿÿHÈ#RMINORZ
+CODE_SMELL
+ˆ
+java:S1858à"V"DEATH_PLACE_VEHICLE" is already a string, there's no need to call "toString()" on it.(øÈ™®ùÿÿÿÿHÊ#RMINORZ
+CODE_SMELL
+m	java:S125ã"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿHÌ#RMAJORZ
+CODE_SMELL
+m	java:S125è"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿHÎ#RMAJORZ
+CODE_SMELL
+h	java:S125ë"<This block of commented-out lines of code should be removed.(ü²ã‡HĞ#RMAJORZ
+CODE_SMELL
+m	java:S125ï"<This block of commented-out lines of code should be removed.(À—ÜÿÿÿÿÿHÒ#RMAJORZ
+CODE_SMELL
+h	java:S125ó"<This block of commented-out lines of code should be removed.(äçÕÅHÔ#RMAJORZ
+CODE_SMELL
+‹
+java:S1858õ"Y"VEHICLE_DEATH_CAPTION1" is already a string, there's no need to call "toString()" on it.(úõ¾İüÿÿÿÿHÕ#RMINORZ
+CODE_SMELL
+‹
+java:S1858õ"Y"VEHICLE_DEATH_CAPTION2" is already a string, there's no need to call "toString()" on it.(úõ¾İüÿÿÿÿH×#RMINORZ
+CODE_SMELL
+‹
+java:S1858õ"Y"VEHICLE_DEATH_CAPTION2" is already a string, there's no need to call "toString()" on it.(úõ¾İüÿÿÿÿHÙ#RMINORZ
+CODE_SMELL
+‹
+java:S1858õ"Y"VEHICLE_DEATH_CAPTION3" is already a string, there's no need to call "toString()" on it.(úõ¾İüÿÿÿÿHÛ#RMINORZ
+CODE_SMELL
+‹
+java:S1858õ"Y"VEHICLE_DEATH_CAPTION4" is already a string, there's no need to call "toString()" on it.(úõ¾İüÿÿÿÿHİ#RMINORZ
+CODE_SMELL
+†
+java:S1858ö"Y"VEHICLE_DEATH_CAPTION5" is already a string, there's no need to call "toString()" on it.(ì¢˜âHß#RMINORZ
+CODE_SMELL
+†
+java:S1858ö"Y"VEHICLE_DEATH_CAPTION7" is already a string, there's no need to call "toString()" on it.(ì¢˜âHá#RMINORZ
+CODE_SMELL
+†
+java:S1858ö"Y"VEHICLE_DEATH_CAPTION6" is already a string, there's no need to call "toString()" on it.(ì¢˜âHã#RMINORZ
+CODE_SMELL
+ˆ
+java:S1858ı"["DEATH_PLACE_OTHER_PLACES" is already a string, there's no need to call "toString()" on it.(¾»¥İHå#RMINORZ
+CODE_SMELL
+m	java:S125€	"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿHç#RMAJORZ
+CODE_SMELL
+m	java:S125‡	"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿHë#RMAJORZ
+CODE_SMELL
+g	java:S125Œ	"<This block of commented-out lines of code should be removed.(Æ¢¤yHï#RMAJORZ
+CODE_SMELL
+
+java:S1858Ÿ	"c"DEATH_PLACE_OUTSIDE_JURISDICTION" is already a string, there's no need to call "toString()" on it.(åñºqHõ#RMINORZ
+CODE_SMELL
+„
+java:S1858Í	"R"PLACE_OF_BURIAL" is already a string, there's no need to call "toString()" on it.(Á¿úÿÿÿÿH÷#RMINORZ
+CODE_SMELL
+{
+java:S1858Ô	"N"GENDER_MALE" is already a string, there's no need to call "toString()" on it.(¶Æû¶Hù#RMINORZ
+CODE_SMELL
+ˆ
+java:S1858Õ	"V"GENDER_MALE_CAPTION" is already a string, there's no need to call "toString()" on it.(Ø˜Â²üÿÿÿÿHû#RMINORZ
+CODE_SMELL
+‚
+java:S1858×	"P"GENDER_FEMALE" is already a string, there's no need to call "toString()" on it.(‹†Ò‹üÿÿÿÿHı#RMINORZ
+CODE_SMELL
+…
+java:S1858Ø	"X"GENDER_FEMALE_CAPTION" is already a string, there's no need to call "toString()" on it.(¸­¿±Hÿ#RMINORZ
+CODE_SMELL
+{
+java:S1858Ú	"N"TRANSGENDER" is already a string, there's no need to call "toString()" on it.(î€û¶H$RMINORZ
+CODE_SMELL
+ƒ
+java:S1858Û	"V"TRANSGENDER_CAPTION" is already a string, there's no need to call "toString()" on it.(İöÌşHƒ$RMINORZ
+CODE_SMELL
+m	java:S125å	"<This block of commented-out lines of code should be removed.(¯š®ŸşÿÿÿÿH…$RMAJORZ
+CODE_SMELL
+m	java:S125ê	"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿH†$RMAJORZ
+CODE_SMELL
+h	java:S125®
+"<This block of commented-out lines of code should be removed.(±¿ç¨H$RMAJORZ
+CODE_SMELL
+h	java:S125Â
+"<This block of commented-out lines of code should be removed.(±¿ç¨H$RMAJORZ
+CODE_SMELL
+h	java:S125Õ
+"<This block of commented-out lines of code should be removed.(±¿ç¨H$RMAJORZ
+CODE_SMELL
+h	java:S125è
+"<This block of commented-out lines of code should be removed.(±¿ç¨H‘$RMAJORZ
+CODE_SMELL
+h	java:S125û
+"<This block of commented-out lines of code should be removed.(±¿ç¨H’$RMAJORZ
+CODE_SMELL
+†
+java:S3923…"[Remove this conditional structure or edit its code blocks so that they're not all the same.(§É œøÿÿÿÿH“$RMAJORZBUG
+‰
+java:S1858Ÿ"W"DEATH_PLACE_HOSPITAL" is already a string, there's no need to call "toString()" on it.(àƒËğÿÿÿÿÿH”$RMINORZ
+CODE_SMELL
+‡
+java:S1858³"Z"DEATH_PLACE_INSTITUTION" is already a string, there's no need to call "toString()" on it.(ÚóºëH–$RMINORZ
+CODE_SMELL
+m	java:S125€"<This block of commented-out lines of code should be removed.(¯š®ŸşÿÿÿÿH˜$RMAJORZ
+CODE_SMELL
+m	java:S125ˆ"<This block of commented-out lines of code should be removed.(¿ÑèàşÿÿÿÿH™$RMAJORZ
+CODE_SMELL
+‡
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(æâÔÏüÿÿÿÿHš$RCRITICALZ
+CODE_SMELL
+
+java:S1858Í"S"DEATH_PLACE_HOME" is already a string, there's no need to call "toString()" on it.(Ûºº_H²$RMINORZ
+CODE_SMELL
+‰
+java:S1858"W"DEATH_PLACE_HOSPITAL" is already a string, there's no need to call "toString()" on it.(á™·ìşÿÿÿÿH´$RMINORZ
+CODE_SMELL
+Œ
+java:S1858¨"Z"DEATH_PLACE_INSTITUTION" is already a string, there's no need to call "toString()" on it.(Å¿å¸ùÿÿÿÿH¶$RMINORZ
+CODE_SMELL
+ˆ
+java:S1858³"V"DEATH_PLACE_VEHICLE" is already a string, there's no need to call "toString()" on it.(øÈ™®ùÿÿÿÿH¸$RMINORZ
+CODE_SMELL
+‹
+java:S1858¶"Y"VEHICLE_DEATH_CAPTION5" is already a string, there's no need to call "toString()" on it.(¿ç©ˆøÿÿÿÿHº$RMINORZ
+CODE_SMELL
+‹
+java:S1858¶"Y"VEHICLE_DEATH_CAPTION7" is already a string, there's no need to call "toString()" on it.(¿ç©ˆøÿÿÿÿH¼$RMINORZ
+CODE_SMELL
+‹
+java:S1858¶"Y"VEHICLE_DEATH_CAPTION6" is already a string, there's no need to call "toString()" on it.(¿ç©ˆøÿÿÿÿH¾$RMINORZ
+CODE_SMELL
+ˆ
+java:S1858½"["DEATH_PLACE_OTHER_PLACES" is already a string, there's no need to call "toString()" on it.(¾»¥İHÀ$RMINORZ
+CODE_SMELL
+h	java:S125¾"<This block of commented-out lines of code should be removed.(ØöÓ‡HÂ$RMAJORZ
+CODE_SMELL
+m	java:S125Á"<This block of commented-out lines of code should be removed.(éØ»ÚûÿÿÿÿHÃ$RMAJORZ
+CODE_SMELL
+m	java:S125Ï"<This block of commented-out lines of code should be removed.(¿ÑèàşÿÿÿÿHÇ$RMAJORZ
+CODE_SMELL
+h	java:S125ğ"<This block of commented-out lines of code should be removed.(±¿ç¨HÈ$RMAJORZ
+CODE_SMELL
+i
+java:S1144ì
+"<Remove this unused private "getAttributeValuesOther" method.(»°èHÉ$RMAJORZ
+CODE_SMELL

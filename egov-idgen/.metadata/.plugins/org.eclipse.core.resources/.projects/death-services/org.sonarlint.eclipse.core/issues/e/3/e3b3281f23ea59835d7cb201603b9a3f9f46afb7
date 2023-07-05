@@ -1,0 +1,50 @@
+
+
+java:S1192Ù"ODefine a constant instead of duplicating this literal "[\\[\\]\\(\\)]" 6 times.(óƒ­ŒHŽ%RCRITICALZ
+CODE_SMELL
+g
+java:S1854A";Remove this useless assignment to local variable "request".(ø˜ýÊH•%RMAJORZ
+CODE_SMELL
+g	java:S125j"<This block of commented-out lines of code should be removed.(ÏÕù±H–%RMAJORZ
+CODE_SMELL
+g
+java:S1854¶";Remove this useless assignment to local variable "request".(‰˜è`H˜%RMAJORZ
+CODE_SMELL
+m	java:S125ˆ"<This block of commented-out lines of code should be removed.(•¶ÅžüÿÿÿÿH™%RMAJORZ
+CODE_SMELL
+m	java:S125Œ"<This block of commented-out lines of code should be removed.(•¶ÅžüÿÿÿÿHš%RMAJORZ
+CODE_SMELL
+m	java:S125’"<This block of commented-out lines of code should be removed.(ìŠ„ùÿÿÿÿHœ%RMAJORZ
+CODE_SMELL
+h
+java:S1854Ê";Remove this useless assignment to local variable "request".(ø˜ýÊH%RMAJORZ
+CODE_SMELL
+h	java:S125ö"<This block of commented-out lines of code should be removed.(ÏÕù±Hž%RMAJORZ
+CODE_SMELL
+m	java:S125ï"<This block of commented-out lines of code should be removed.(‚½êˆûÿÿÿÿH %RMAJORZ
+CODE_SMELL
+h	java:S125õ"<This block of commented-out lines of code should be removed.(õÙ¿¾H¡%RMAJORZ
+CODE_SMELL
+g	java:S125ù"<This block of commented-out lines of code should be removed.(Ä’JH¢%RMAJORZ
+CODE_SMELL
+‡
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 89 to the 15 allowed.(èÄæÞúÿÿÿÿH£%RCRITICALZ
+CODE_SMELL
+m
+java:S1854Å";Remove this useless assignment to local variable "request".(€ÚËãþÿÿÿÿHÇ%RMAJORZ
+CODE_SMELL
+h	java:S125Ò"<This block of commented-out lines of code should be removed.(ÀÄëžHÈ%RMAJORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(û×ÎéûÿÿÿÿHÉ%RMAJORZ
+CODE_SMELL
+g	java:S125ž"<This block of commented-out lines of code should be removed.(ï÷ÅkHÊ%RMAJORZ
+CODE_SMELL
+h	java:S125 "<This block of commented-out lines of code should be removed.(™¢–ÁHË%RMAJORZ
+CODE_SMELL
+m	java:S125¨"<This block of commented-out lines of code should be removed.(ó””âûÿÿÿÿHÍ%RMAJORZ
+CODE_SMELL
+h	java:S125"<This block of commented-out lines of code should be removed.(±¿ç¨HÏ%RMAJORZ
+CODE_SMELL
+O
+java:S1128/"Remove this duplicated import.(Õë±ÄøÿÿÿÿHÐ%RMINORZ
+CODE_SMELL

@@ -1,0 +1,129 @@
+
+€
+java:S1192•"KDefine a constant instead of duplicating this literal "BndDetail" 18 times.(Ã¶ÍµşÿÿÿÿHİ%RCRITICALZ
+CODE_SMELL
+\
+java:S1066˜"/Merge this if statement with the enclosing one.(Ì†Ñ®Hğ%RMAJORZ
+CODE_SMELL
+\
+java:S1066‘"/Merge this if statement with the enclosing one.(şİ¸¶Hõ%RMAJORZ
+CODE_SMELL
+\
+java:S1066ƒ"/Merge this if statement with the enclosing one.(ÜÒå¤Hú%RMAJORZ
+CODE_SMELL
+\
+java:S1066“"/Merge this if statement with the enclosing one.(Ì†Ñ®Hÿ%RMAJORZ
+CODE_SMELL
+\
+java:S1066µ"/Merge this if statement with the enclosing one.(Ì†Ñ®H„&RMAJORZ
+CODE_SMELL
+Z
+java:S5411Ò"(Use a primitive boolean expression here.(ëî»úÿÿÿÿH‰&RMINORZ
+CODE_SMELL
+U
+java:S5411Ô"(Use a primitive boolean expression here.(ƒ¤ÈÙHŒ&RMINORZ
+CODE_SMELL
+T
+java:S5411Ê"(Use a primitive boolean expression here.(‹åæNH&RMINORZ
+CODE_SMELL
+Z
+java:S5411Ì"(Use a primitive boolean expression here.(µÄĞùÿÿÿÿH’&RMINORZ
+CODE_SMELL
+Z
+java:S5411Î"(Use a primitive boolean expression here.(ëî»úÿÿÿÿH•&RMINORZ
+CODE_SMELL
+U
+java:S5411Ğ"(Use a primitive boolean expression here.(ƒ¤ÈÙH˜&RMINORZ
+CODE_SMELL
+Z
+java:S5411ğ"(Use a primitive boolean expression here.(ëî»úÿÿÿÿH›&RMINORZ
+CODE_SMELL
+U
+java:S5411ò"(Use a primitive boolean expression here.(ƒ¤ÈÙH&RMINORZ
+CODE_SMELL
+l	java:S1251"<This block of commented-out lines of code should be removed.(èÖ¦¿ıÿÿÿÿH¡&RMAJORZ
+CODE_SMELL
+h	java:S125ˆ"<This block of commented-out lines of code should be removed.(ü±ÕH£&RMAJORZ
+CODE_SMELL
+m	java:S125ª"<This block of commented-out lines of code should be removed.(ÑæÿØÿÿÿÿÿH¬&RMAJORZ
+CODE_SMELL
+h	java:S125²"<This block of commented-out lines of code should be removed.(îæ—éH²&RMAJORZ
+CODE_SMELL
+m	java:S125Á"<This block of commented-out lines of code should be removed.(éØ»ÚûÿÿÿÿH¿&RMAJORZ
+CODE_SMELL
+h	java:S125Î"<This block of commented-out lines of code should be removed.(áşî“HÀ&RMAJORZ
+CODE_SMELL
+^
+java:S1602Ù",Remove useless curly braces around statement(Ìæ…–ùÿÿÿÿHÁ&RMINORZ
+CODE_SMELL
+‚
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ş€¥­HÂ&RCRITICALZ
+CODE_SMELL
+‡
+java:S3776Î"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÙŠ´ëÿÿÿÿÿHË&RCRITICALZ
+CODE_SMELL
+Y
+java:S1125Ò"'Remove the unnecessary boolean literal.(ëî»úÿÿÿÿHÖ&RMINORZ
+CODE_SMELL
+‡
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ï¥çÿÿÿÿÿHØ&RCRITICALZ
+CODE_SMELL
+‡
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(úüÕÇıÿÿÿÿHá&RCRITICALZ
+CODE_SMELL
+S
+java:S1125Ê"'Remove the unnecessary boolean literal.(‹åæNHì&RMINORZ
+CODE_SMELL
+m	java:S125‘"<This block of commented-out lines of code should be removed.(©ÂãƒÿÿÿÿÿHî&RMAJORZ
+CODE_SMELL
+^
+java:S1602›",Remove useless curly braces around statement(Ìæ…–ùÿÿÿÿHï&RMINORZ
+CODE_SMELL
+g	java:S125É"<This block of commented-out lines of code should be removed.(€šædHğ&RMAJORZ
+CODE_SMELL
+m	java:S125ï"<This block of commented-out lines of code should be removed.(½Ÿ‰ııÿÿÿÿHñ&RMAJORZ
+CODE_SMELL
+m	java:S125ÿ"<This block of commented-out lines of code should be removed.(À‡”çüÿÿÿÿHò&RMAJORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(âáÜùÿÿÿÿHó&RMAJORZ
+CODE_SMELL
+h	java:S125„"<This block of commented-out lines of code should be removed.(Öæ²­Hõ&RMAJORZ
+CODE_SMELL
+‚
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÿÔÖŠH÷&RCRITICALZ
+CODE_SMELL
+‚
+java:S3776Ê"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(»ÇÉH€'RCRITICALZ
+CODE_SMELL
+Y
+java:S1125Î"'Remove the unnecessary boolean literal.(ëî»úÿÿÿÿH‹'RMINORZ
+CODE_SMELL
+h	java:S125“"<This block of commented-out lines of code should be removed.(áşî“H'RMAJORZ
+CODE_SMELL
+^
+java:S1602",Remove useless curly braces around statement(Ìæ…–ùÿÿÿÿH'RMINORZ
+CODE_SMELL
+h	java:S125¦"<This block of commented-out lines of code should be removed.(ŸÑ˜éH'RMAJORZ
+CODE_SMELL
+h	java:S125®"<This block of commented-out lines of code should be removed.(îæ—éH•'RMAJORZ
+CODE_SMELL
+m	java:S125½"<This block of commented-out lines of code should be removed.(éØ»ÚûÿÿÿÿH¢'RMAJORZ
+CODE_SMELL
+^
+java:S1602¨",Remove useless curly braces around statement(Ìæ…–ùÿÿÿÿH£'RMINORZ
+CODE_SMELL
+‡
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ßÔÔ’şÿÿÿÿH¤'RCRITICALZ
+CODE_SMELL
+‚
+java:S3776ì"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¾„„üH­'RCRITICALZ
+CODE_SMELL
+Y
+java:S1125ğ"'Remove the unnecessary boolean literal.(ëî»úÿÿÿÿH¸'RMINORZ
+CODE_SMELL
+`
+java:S1068H"/Remove this unused "idGenerator" private field.(ÇúçˆüÿÿÿÿHº'RMAJORZ
+CODE_SMELL
+i
+java:S1144ã"7Remove this unused private "getAttributeValues" method.(ÂÒçÆøÿÿÿÿH½'RMAJORZ
+CODE_SMELL
